@@ -1,0 +1,20 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.4.2
+2 info using node@v22.17.0
+3 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\tyler\Desktop\recallbricks-mcp-simple\.npmrc
+5 silly config load:file:C:\Users\tyler\.npmrc
+6 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm view @anthropic-ai/claude-code@latest version
+8 verbose argv "view" "@anthropic-ai/claude-code@latest" "version" "--prefer-online"
+9 verbose logfile logs-max:10 dir:C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_47_05_140Z-
+10 verbose logfile C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_47_05_140Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 http fetch GET 200 https://registry.npmjs.org/@anthropic-ai%2fclaude-code 667ms (cache revalidated)
+14 verbose cwd C:\Users\tyler\Desktop\recallbricks-mcp-simple
+15 verbose os Windows_NT 10.0.19045
+16 verbose node v22.17.0
+17 verbose npm  v11.4.2
+18 verbose exit 0
+19 info ok
