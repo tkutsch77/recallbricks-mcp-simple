@@ -1079,9 +1079,18 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
             const userId = args.user_id || AGENT_CONFIG.userId;
             const depth = args.depth || 'standard';
             const result = await getAgentContextAPI(agentId, userId, depth);
-            const identity = result.agent_identity;
+            const identity = result.agent_identity || {};
             const memories = result.recent_memories || [];
             const patterns = result.key_patterns || [];
+            // Handle minimal identity schemas gracefully
+            const agentName = identity?.name || AGENT_CONFIG.displayName || agentId;
+            const purpose = identity?.purpose || 'General assistant';
+            const traits = (identity?.traits && Array.isArray(identity.traits) && identity.traits.length > 0)
+                ? identity.traits.join(', ')
+                : 'Helpful, adaptive';
+            const behavioralRules = (identity?.behavioral_rules && Array.isArray(identity.behavioral_rules) && identity.behavioral_rules.length > 0)
+                ? identity.behavioral_rules.join('\n- ')
+                : 'Be helpful and accurate';
             const memoriesText = memories.length > 0
                 ? memories
                     .slice(0, 5)
@@ -1095,14 +1104,14 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
                 content: [
                     {
                         type: 'text',
-                        text: `🤖 Agent Context Loaded: ${identity.name}\n\n` +
-                            `Purpose: ${identity.purpose}\n\n` +
-                            `Traits: ${identity.traits.join(', ')}\n\n` +
-                            `Behavioral Rules:\n- ${identity.behavioral_rules.join('\n- ')}\n\n` +
+                        text: `🤖 Agent Context Loaded: ${agentName}\n\n` +
+                            `Purpose: ${purpose}\n\n` +
+                            `Traits: ${traits}\n\n` +
+                            `Behavioral Rules:\n- ${behavioralRules}\n\n` +
                             `Recent Memories (${memories.length}):\n${memoriesText}\n\n` +
                             `Key Patterns:\n- ${patternsText}\n\n` +
-                            `⚠️ IMPORTANT: You are ${identity.name}, not a generic AI model.\n\n` +
-                            `System Prompt:\n${result.system_prompt_injection}`,
+                            `⚠️ IMPORTANT: You are ${agentName}, not a generic AI model.\n\n` +
+                            `System Prompt:\n${result.system_prompt_injection || 'No system prompt available'}`,
                     },
                 ],
             };

@@ -1,0 +1,2136 @@
+warning: in the working copy of 'UsersTyler.npm-cache/_cacache/index-v5/41/c5/4270bf1cd1aae004ed6fee83989ac428601f4c060987660e9a1aef9d53b6', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'dist/index.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/index.ts', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/UsersTyler.npm-cache/_cacache/index-v5/41/c5/4270bf1cd1aae004ed6fee83989ac428601f4c060987660e9a1aef9d53b6 b/UsersTyler.npm-cache/_cacache/index-v5/41/c5/4270bf1cd1aae004ed6fee83989ac428601f4c060987660e9a1aef9d53b6[m
+[1mindex d1939a5..6297723 100644[m
+[1m--- a/UsersTyler.npm-cache/_cacache/index-v5/41/c5/4270bf1cd1aae004ed6fee83989ac428601f4c060987660e9a1aef9d53b6[m
+[1m+++ b/UsersTyler.npm-cache/_cacache/index-v5/41/c5/4270bf1cd1aae004ed6fee83989ac428601f4c060987660e9a1aef9d53b6[m
+[36m@@ -1,3 +1,3 @@[m
+ [m
+[31m-a9fe565f81809131f0013fc6c42f534802de029d	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@anthropic-ai%2fclaude-code","integrity":"sha512-MylM42pKZAZW20iXPZb/GUUZtXPse9F+pLA8LtevrEkyjhwb4cKc37rB8nl5r+Mqh75UL4j07xt4fOj/RuIjQg==","time":1762712225789,"size":624209,"metadata":{"time":1762712225788,"url":"https://registry.npmjs.org/@anthropic-ai%2fclaude-code","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","date":"Sun, 09 Nov 2025 18:17:07 GMT","etag":"\"a744e33349af5aeadd76595e4a559125\"","last-modified":"Fri, 07 Nov 2025 22:07:00 GMT","vary":"Accept-Encoding","content-encoding":"gzip","content-type":"application/json"},"options":{"compress":true}}}[m
+[31m-54b8534c7cc6909d449a31693e6d80074114355d	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@anthropic-ai%2fclaude-code","integrity":"sha512-MylM42pKZAZW20iXPZb/GUUZtXPse9F+pLA8LtevrEkyjhwb4cKc37rB8nl5r+Mqh75UL4j07xt4fOj/RuIjQg==","time":1762714026274,"size":624209,"metadata":{"time":1762714026273,"url":"https://registry.npmjs.org/@anthropic-ai%2fclaude-code","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","date":"Sun, 09 Nov 2025 18:47:08 GMT","etag":"\"a744e33349af5aeadd76595e4a559125\"","last-modified":"Fri, 07 Nov 2025 22:07:00 GMT","vary":"Accept-Encoding","content-encoding":"gzip","content-type":"application/json"},"options":{"compress":true}}}[m
+\ No newline at end of file[m
+[32m+[m[32m2715a69dd50a9d0bd129c63945c555da16ba1207	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@anthropic-ai%2fclaude-code","integrity":"sha512-PRMjqABdk2iXubB+NEmQ7mZavexUN117ZzRRp8XEVlAB6vkIPw+VoLumRlkozPOQqN4CRhPafNKsljk9VngHzA==","time":1763834934412,"size":650355,"metadata":{"time":1763834934411,"url":"https://registry.npmjs.org/@anthropic-ai%2fclaude-code","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","date":"Sat, 22 Nov 2025 18:08:54 GMT","etag":"\"e20eecf3971c74108c4eeb612b9c642d\"","last-modified":"Fri, 21 Nov 2025 23:13:18 GMT","vary":"Accept-Encoding","content-encoding":"gzip","content-type":"application/json"},"options":{"compress":true}}}[m
+[32m+[m[32md0069653e6a44a35969e1c8d57852ab9ca2d0461	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/@anthropic-ai%2fclaude-code","integrity":"sha512-PRMjqABdk2iXubB+NEmQ7mZavexUN117ZzRRp8XEVlAB6vkIPw+VoLumRlkozPOQqN4CRhPafNKsljk9VngHzA==","time":1763836733801,"size":650355,"metadata":{"time":1763836733801,"url":"https://registry.npmjs.org/@anthropic-ai%2fclaude-code","reqHeaders":{"accept":"application/json"},"resHeaders":{"cache-control":"public, max-age=300","date":"Sat, 22 Nov 2025 18:38:53 GMT","etag":"\"e20eecf3971c74108c4eeb612b9c642d\"","last-modified":"Fri, 21 Nov 2025 23:13:18 GMT","vary":"Accept-Encoding","content-encoding":"gzip","content-type":"application/json"},"options":{"compress":true}}}[m
+\ No newline at end of file[m
+[1mdiff --git a/UsersTyler.npm-cache/_logs/2025-11-09T17_14_28_558Z-debug-0.log b/UsersTyler.npm-cache/_logs/2025-11-09T17_14_28_558Z-debug-0.log[m
+[1mdeleted file mode 100644[m
+[1mindex 7d3bfbb..0000000[m
+[1m--- a/UsersTyler.npm-cache/_logs/2025-11-09T17_14_28_558Z-debug-0.log[m
+[1m+++ /dev/null[m
+[36m@@ -1,19 +0,0 @@[m
+[31m-0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js[m
+[31m-1 info using npm@11.4.2[m
+[31m-2 info using node@v22.17.0[m
+[31m-3 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\npmrc[m
+[31m-4 silly config load:file:C:\Users\tyler\Desktop\recallbricks-mcp-simple\.npmrc[m
+[31m-5 silly config load:file:C:\Users\tyler\.npmrc[m
+[31m-6 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\etc\npmrc[m
+[31m-7 verbose title npm run build[m
+[31m-8 verbose argv "run" "build"[m
+[31m-9 verbose logfile logs-max:10 dir:C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_14_28_558Z-[m
+[31m-10 verbose logfile C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_14_28_558Z-debug-0.log[m
+[31m-11 silly logfile start cleaning logs, removing 1 files[m
+[31m-12 silly logfile done cleaning log files[m
+[31m-13 verbose cwd C:\Users\tyler\Desktop\recallbricks-mcp-simple[m
+[31m-14 verbose os Windows_NT 10.0.19045[m
+[31m-15 verbose node v22.17.0[m
+[31m-16 verbose npm  v11.4.2[m
+[31m-17 verbose exit 0[m
+[31m-18 info ok[m
+[1mdiff --git a/UsersTyler.npm-cache/_logs/2025-11-09T17_17_04_886Z-debug-0.log b/UsersTyler.npm-cache/_logs/2025-11-09T17_17_04_886Z-debug-0.log[m
+[1mdeleted file mode 100644[m
+[1mindex 09dce46..0000000[m
+[1m--- a/UsersTyler.npm-cache/_logs/2025-11-09T17_17_04_886Z-debug-0.log[m
+[1m+++ /dev/null[m
+[36m@@ -1,20 +0,0 @@[m
+[31m-0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js[m
+[31m-1 info using npm@11.4.2[m
+[31m-2 info using node@v22.17.0[m
+[31m-3 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\npmrc[m
+[31m-4 silly config load:file:C:\Users\tyler\Desktop\recallbricks-mcp-simple\.npmrc[m
+[31m-5 silly config load:file:C:\Users\tyler\.npmrc[m
+[31m-6 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\etc\npmrc[m
+[31m-7 verbose title npm view @anthropic-ai/claude-code@latest version[m
+[31m-8 verbose argv "view" "@anthropic-ai/claude-code@latest" "version" "--prefer-online"[m
+[31m-9 verbose logfile logs-max:10 dir:C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_17_04_886Z-[m
+[31m-10 verbose logfile C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_17_04_886Z-debug-0.log[m
+[31m-11 silly logfile start cleaning logs, removing 1 files[m
+[31m-12 silly logfile done cleaning log files[m
+[31m-13 http fetch GET 200 https://registry.npmjs.org/@anthropic-ai%2fclaude-code 390ms (cache revalidated)[m
+[31m-14 verbose cwd C:\Users\tyler\Desktop\recallbricks-mcp-simple[m
+[31m-15 verbose os Windows_NT 10.0.19045[m
+[31m-16 verbose node v22.17.0[m
+[31m-17 verbose npm  v11.4.2[m
+[31m-18 verbose exit 0[m
+[31m-19 info ok[m
+[1mdiff --git a/UsersTyler.npm-cache/_logs/2025-11-09T17_17_07_017Z-debug-0.log b/UsersTyler.npm-cache/_logs/2025-11-09T17_17_07_017Z-debug-0.log[m
+[1mdeleted file mode 100644[m
+[1mindex 6272f54..0000000[m
+[1m--- a/UsersTyler.npm-cache/_logs/2025-11-09T17_17_07_017Z-debug-0.log[m
+[1m+++ /dev/null[m
+[36m@@ -1,190 +0,0 @@[m
+[31m-0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js[m
+[31m-1 info using npm@11.4.2[m
+[31m-2 info using node@v22.17.0[m
+[31m-3 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\npmrc[m
+[31m-4 silly config load:file:C:\Users\tyler\Desktop\recallbricks-mcp-simple\.npmrc[m
+[31m-5 silly config load:file:C:\Users\tyler\.npmrc[m
+[31m-6 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\etc\npmrc[m
+[31m-7 verbose title npm uninstall axios[m
+[31m-8 verbose argv "uninstall" "axios"[m
+[31m-9 verbose logfile logs-max:10 dir:C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_17_07_017Z-[m
+[31m-10 verbose logfile C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_17_07_017Z-debug-0.log[m
+[31m-11 silly logfile start cleaning logs, removing 1 files[m
+[31m-12 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368[m
+[31m-13 silly logfile done cleaning log files[m
+[31m-14 silly idealTree buildDeps[m
+[31m-15 silly fetch manifest @types/node@^22.10.1[m
+[31m-16 silly packumentCache full:https://registry.npmjs.org/@types%2fnode cache-miss[m
+[31m-17 http fetch GET 200 https://registry.npmjs.org/@types%2fnode 694ms (cache updated)[m
+[31m-18 silly packumentCache full:https://registry.npmjs.org/@types%2fnode set size:undefined disposed:false[m
+[31m-19 silly placeDep ROOT @types/node@22.19.0 REPLACE for: recallbricks-mcp-simple@1.0.0 want: ^22.10.1[m
+[31m-20 silly fetch manifest undici-types@~6.21.0[m
+[31m-21 silly packumentCache full:https://registry.npmjs.org/undici-types cache-miss[m
+[31m-22 http fetch GET 200 https://registry.npmjs.org/undici-types 146ms (cache revalidated)[m
+[31m-23 silly packumentCache full:https://registry.npmjs.org/undici-types set size:148959 disposed:false[m
+[31m-24 silly placeDep ROOT undici-types@6.21.0 OK for: @types/node@22.19.0 want: ~6.21.0[m
+[31m-25 silly reify mark retired [[m
+[31m-25 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\@types\\node'[m
+[31m-25 silly reify ][m
+[31m-26 silly reify mark retired [[m
+[31m-26 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\asynckit'[m
+[31m-26 silly reify ][m
+[31m-27 silly reify mark retired [[m
+[31m-27 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\axios'[m
+[31m-27 silly reify ][m
+[31m-28 silly reify mark retired [[m
+[31m-28 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\combined-stream'[m
+[31m-28 silly reify ][m
+[31m-29 silly reify mark retired [[m
+[31m-29 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\delayed-stream'[m
+[31m-29 silly reify ][m
+[31m-30 silly reify mark retired [[m
+[31m-30 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\es-set-tostringtag'[m
+[31m-30 silly reify ][m
+[31m-31 silly reify mark retired [[m
+[31m-31 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\follow-redirects'[m
+[31m-31 silly reify ][m
+[31m-32 silly reify mark retired [[m
+[31m-32 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\form-data'[m
+[31m-32 silly reify ][m
+[31m-33 silly reify mark retired [[m
+[31m-33 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\has-tostringtag'[m
+[31m-33 silly reify ][m
+[31m-34 silly reify mark retired [[m
+[31m-34 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\proxy-from-env'[m
+[31m-34 silly reify ][m
+[31m-35 silly reify mark retired [[m
+[31m-35 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\undici-types'[m
+[31m-35 silly reify ][m
+[31m-36 silly reify moves {[m
+[31m-36 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\@types\\node': 'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\@types\\.node-kQ9bXwBJ',[m
+[31m-36 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\asynckit': 'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\.asynckit-LDNMF5Hh',[m
+[31m-36 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\axios': 'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\.axios-n2u9mHv5',[m
+[31m-36 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\combined-stream': 'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\.combined-stream-yYRkldzB',[m
+[31m-36 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\delayed-stream': 'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\.delayed-stream-DTu072fH',[m
+[31m-36 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\es-set-tostringtag': 'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\.es-set-tostringtag-QmnVjFEK',[m
+[31m-36 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\follow-redirects': 'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\.follow-redirects-IZonsF6P',[m
+[31m-36 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\form-data': 'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\.form-data-AcBAZWmG',[m
+[31m-36 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\has-tostringtag': 'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\.has-tostringtag-QMESNoEi',[m
+[31m-36 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\proxy-from-env': 'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\.proxy-from-env-tG1d5BUW',[m
+[31m-36 silly reify   'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\undici-types': 'C:\\Users\\tyler\\Desktop\\recallbricks-mcp-simple\\node_modules\\.undici-types-rOjLca1V'[m
+[31m-36 silly reify }[m
+[31m-37 silly audit bulk request {[m
+[31m-37 silly audit   '@modelcontextprotocol/sdk': [ '1.20.2' ],[m
+[31m-37 silly audit   accepts: [ '2.0.0' ],[m
+[31m-37 silly audit   ajv: [ '6.12.6' ],[m
+[31m-37 silly audit   'body-parser': [ '2.2.0' ],[m
+[31m-37 silly audit   bytes: [ '3.1.2' ],[m
+[31m-37 silly audit   'call-bind-apply-helpers': [ '1.0.2' ],[m
+[31m-37 silly audit   'call-bound': [ '1.0.4' ],[m
+[31m-37 silly audit   'content-disposition': [ '1.0.0' ],[m
+[31m-37 silly audit   'content-type': [ '1.0.5' ],[m
+[31m-37 silly audit   cookie: [ '0.7.2' ],[m
+[31m-37 silly audit   'cookie-signature': [ '1.2.2' ],[m
+[31m-37 silly audit   cors: [ '2.8.5' ],[m
+[31m-37 silly audit   'cross-spawn': [ '7.0.6' ],[m
+[31m-37 silly audit   debug: [ '4.4.3' ],[m
+[31m-37 silly audit   depd: [ '2.0.0' ],[m
+[31m-37 silly audit   'dunder-proto': [ '1.0.1' ],[m
+[31m-37 silly audit   'ee-first': [ '1.1.1' ],[m
+[31m-37 silly audit   encodeurl: [ '2.0.0' ],[m
+[31m-37 silly audit   'es-define-property': [ '1.0.1' ],[m
+[31m-37 silly audit   'es-errors': [ '1.3.0' ],[m
+[31m-37 silly audit   'es-object-atoms': [ '1.1.1' ],[m
+[31m-37 silly audit   'escape-html': [ '1.0.3' ],[m
+[31m-37 silly audit   etag: [ '1.8.1' ],[m
+[31m-37 silly audit   eventsource: [ '3.0.7' ],[m
+[31m-37 silly audit   'eventsource-parser': [ '3.0.6' ],[m
+[31m-37 silly audit   express: [ '5.1.0' ],[m
+[31m-37 silly audit   'express-rate-limit': [ '7.5.1' ],[m
+[31m-37 silly audit   'fast-deep-equal': [ '3.1.3' ],[m
+[31m-37 silly audit   'fast-json-stable-stringify': [ '2.1.0' ],[m
+[31m-37 silly audit   finalhandler: [ '2.1.0' ],[m
+[31m-37 silly audit   'mime-db': [ '1.54.0' ],[m
+[31m-37 silly audit   'mime-types': [ '3.0.1' ],[m
+[31m-37 silly audit   forwarded: [ '0.2.0' ],[m
+[31m-37 silly audit   fresh: [ '2.0.0' ],[m
+[31m-37 silly audit   'function-bind': [ '1.1.2' ],[m
+[31m-37 silly audit   'get-intrinsic': [ '1.3.0' ],[m
+[31m-37 silly audit   'get-proto': [ '1.0.1' ],[m
+[31m-37 silly audit   gopd: [ '1.2.0' ],[m
+[31m-37 silly audit   'has-symbols': [ '1.1.0' ],[m
+[31m-37 silly audit   hasown: [ '2.0.2' ],[m
+[31m-37 silly audit   'http-errors': [ '2.0.0' ],[m
+[31m-37 silly audit   statuses: [ '2.0.1', '2.0.2' ],[m
+[31m-37 silly audit   'iconv-lite': [ '0.6.3', '0.7.0' ],[m
+[31m-37 silly audit   inherits: [ '2.0.4' ],[m
+[31m-37 silly audit   'ipaddr.js': [ '1.9.1' ],[m
+[31m-37 silly audit   'is-promise': [ '4.0.0' ],[m
+[31m-37 silly audit   isexe: [ '2.0.0' ],[m
+[31m-37 silly audit   'json-schema-traverse': [ '0.4.1' ],[m
+[31m-37 silly audit   'math-intrinsics': [ '1.1.0' ],[m
+[31m-37 silly audit   'media-typer': [ '1.1.0' ],[m
+[31m-37 silly audit   'merge-descriptors': [ '2.0.0' ],[m
+[31m-37 silly audit   ms: [ '2.1.3' ],[m
+[31m-37 silly audit   negotiator: [ '1.0.0' ],[m
+[31m-37 silly audit   'object-assign': [ '4.1.1' ],[m
+[31m-37 silly audit   'object-inspect': [ '1.13.4' ],[m
+[31m-37 silly audit   'on-finished': [ '2.4.1' ],[m
+[31m-37 silly audit   once: [ '1.4.0' ],[m
+[31m-37 silly audit   parseurl: [ '1.3.3' ],[m
+[31m-37 silly audit   'path-key': [ '3.1.1' ],[m
+[31m-37 silly audit   'path-to-regexp': [ '8.3.0' ],[m
+[31m-37 silly audit   'pkce-challenge': [ '5.0.0' ],[m
+[31m-37 silly audit   'proxy-addr': [ '2.0.7' ],[m
+[31m-37 silly audit   punycode: [ '2.3.1' ],[m
+[31m-37 silly audit   qs: [ '6.14.0' ],[m
+[31m-37 silly audit   'range-parser': [ '1.2.1' ],[m
+[31m-37 silly audit   'raw-body': [ '3.0.1' ],[m
+[31m-37 silly audit   router: [ '2.2.0' ],[m
+[31m-37 silly audit   'safe-buffer': [ '5.2.1' ],[m
+[31m-37 silly audit   'safer-buffer': [ '2.1.2' ],[m
+[31m-37 silly audit   send: [ '1.2.0' ],[m
+[31m-37 silly audit   'serve-static': [ '2.2.0' ],[m
+[31m-37 silly audit   setprototypeof: [ '1.2.0' ],[m
+[31m-37 silly audit   'shebang-command': [ '2.0.0' ],[m
+[31m-37 silly audit   'shebang-regex': [ '3.0.0' ],[m
+[31m-37 silly audit   'side-channel': [ '1.1.0' ],[m
+[31m-37 silly audit   'side-channel-list': [ '1.0.0' ],[m
+[31m-37 silly audit   'side-channel-map': [ '1.0.1' ],[m
+[31m-37 silly audit   'side-channel-weakmap': [ '1.0.2' ],[m
+[31m-37 silly audit   toidentifier: [ '1.0.1' ],[m
+[31m-37 silly audit   'type-is': [ '2.0.1' ],[m
+[31m-37 silly audit   typescript: [ '5.9.3' ],[m
+[31m-37 silly audit   unpipe: [ '1.0.0' ],[m
+[31m-37 silly audit   'uri-js': [ '4.4.1' ],[m
+[31m-37 silly audit   vary: [ '1.1.2' ],[m
+[31m-37 silly audit   which: [ '2.0.2' ],[m
+[31m-37 silly audit   wrappy: [ '1.0.2' ],[m
+[31m-37 silly audit   zod: [ '3.25.76' ],[m
+[31m-37 silly audit   'zod-to-json-schema': [ '3.24.6' ],[m
+[31m-37 silly audit   '@types/node': [ '22.19.0' ],[m
+[31m-37 silly audit   'undici-types': [ '6.21.0' ][m
+[31m-37 silly audit }[m
+[31m-38 http cache undici-types@https://registry.npmjs.org/undici-types/-/undici-types-6.21.0.tgz 0ms (cache hit)[m
+[31m-39 http cache @types/node@https://registry.npmjs.org/@types/node/-/node-22.19.0.tgz 0ms (cache hit)[m
+[31m-40 silly tarball no local data for undici-types@https://registry.npmjs.org/undici-types/-/undici-types-6.21.0.tgz. Extracting by manifest.[m
+[31m-41 silly tarball no local data for @types/node@https://registry.npmjs.org/@types/node/-/node-22.19.0.tgz. Extracting by manifest.[m
+[31m-42 http fetch GET 200 https://registry.npmjs.org/undici-types/-/undici-types-6.21.0.tgz 416ms (cache miss)[m
+[31m-43 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 1142ms[m
+[31m-44 silly audit report {}[m
+[31m-45 http fetch GET 200 https://registry.npmjs.org/@types/node/-/node-22.19.0.tgz 2440ms (cache miss)[m
+[31m-46 silly CHANGE node_modules/undici-types[m
+[31m-47 silly REMOVE node_modules/proxy-from-env[m
+[31m-48 silly REMOVE node_modules/has-tostringtag[m
+[31m-49 silly REMOVE node_modules/form-data[m
+[31m-50 silly REMOVE node_modules/form-data/node_modules/mime-types[m
+[31m-51 silly REMOVE node_modules/form-data/node_modules/mime-db[m
+[31m-52 silly REMOVE node_modules/follow-redirects[m
+[31m-53 silly REMOVE node_modules/es-set-tostringtag[m
+[31m-54 silly REMOVE node_modules/delayed-stream[m
+[31m-55 silly REMOVE node_modules/combined-stream[m
+[31m-56 silly REMOVE node_modules/axios[m
+[31m-57 silly REMOVE node_modules/asynckit[m
+[31m-58 silly CHANGE node_modules/@types/node[m
+[31m-59 verbose cwd C:\Users\tyler\Desktop\recallbricks-mcp-simple[m
+[31m-60 verbose os Windows_NT 10.0.19045[m
+[31m-61 verbose node v22.17.0[m
+[31m-62 verbose npm  v11.4.2[m
+[31m-63 verbose exit 0[m
+[31m-64 info ok[m
+[1mdiff --git a/UsersTyler.npm-cache/_logs/2025-11-09T17_22_17_935Z-debug-0.log b/UsersTyler.npm-cache/_logs/2025-11-09T17_22_17_935Z-debug-0.log[m
+[1mdeleted file mode 100644[m
+[1mindex f334bf3..0000000[m
+[1m--- a/UsersTyler.npm-cache/_logs/2025-11-09T17_22_17_935Z-debug-0.log[m
+[1m+++ /dev/null[m
+[36m@@ -1,19 +0,0 @@[m
+[31m-0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js[m
+[31m-1 info using npm@11.4.2[m
+[31m-2 info using node@v22.17.0[m
+[31m-3 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\npmrc[m
+[31m-4 silly config load:file:C:\Users\tyler\Desktop\recallbricks-mcp-simple\.npmrc[m
+[31m-5 silly config load:file:C:\Users\tyler\.npmrc[m
+[31m-6 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\etc\npmrc[m
+[31m-7 verbose title npm run build[m
+[31m-8 verbose argv "run" "build"[m
+[31m-9 verbose logfile logs-max:10 dir:C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_22_17_935Z-[m
+[31m-10 verbose logfile C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_22_17_935Z-debug-0.log[m
+[31m-11 silly logfile start cleaning logs, removing 1 files[m
+[31m-12 silly logfile done cleaning log files[m
+[31m-13 verbose cwd C:\Users\tyler\Desktop\recallbricks-mcp-simple[m
+[31m-14 verbose os Windows_NT 10.0.19045[m
+[31m-15 verbose node v22.17.0[m
+[31m-16 verbose npm  v11.4.2[m
+[31m-17 verbose exit 2[m
+[31m-18 verbose code 2[m
+[1mdiff --git a/UsersTyler.npm-cache/_logs/2025-11-09T17_23_19_931Z-debug-0.log b/UsersTyler.npm-cache/_logs/2025-11-09T17_23_19_931Z-debug-0.log[m
+[1mdeleted file mode 100644[m
+[1mindex 4e95f37..0000000[m
+[1m--- a/UsersTyler.npm-cache/_logs/2025-11-09T17_23_19_931Z-debug-0.log[m
+[1m+++ /dev/null[m
+[36m@@ -1,19 +0,0 @@[m
+[31m-0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js[m
+[31m-1 info using npm@11.4.2[m
+[31m-2 info using node@v22.17.0[m
+[31m-3 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\npmrc[m
+[31m-4 silly config load:file:C:\Users\tyler\Desktop\recallbricks-mcp-simple\.npmrc[m
+[31m-5 silly config load:file:C:\Users\tyler\.npmrc[m
+[31m-6 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\etc\npmrc[m
+[31m-7 verbose title npm run build[m
+[31m-8 verbose argv "run" "build"[m
+[31m-9 verbose logfile logs-max:10 dir:C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_23_19_931Z-[m
+[31m-10 verbose logfile C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_23_19_931Z-debug-0.log[m
+[31m-11 silly logfile start cleaning logs, removing 1 files[m
+[31m-12 silly logfile done cleaning log files[m
+[31m-13 verbose cwd C:\Users\tyler\Desktop\recallbricks-mcp-simple[m
+[31m-14 verbose os Windows_NT 10.0.19045[m
+[31m-15 verbose node v22.17.0[m
+[31m-16 verbose npm  v11.4.2[m
+[31m-17 verbose exit 0[m
+[31m-18 info ok[m
+[1mdiff --git a/UsersTyler.npm-cache/_logs/2025-11-09T17_33_48_608Z-debug-0.log b/UsersTyler.npm-cache/_logs/2025-11-09T17_33_48_608Z-debug-0.log[m
+[1mdeleted file mode 100644[m
+[1mindex 9a68e26..0000000[m
+[1m--- a/UsersTyler.npm-cache/_logs/2025-11-09T17_33_48_608Z-debug-0.log[m
+[1m+++ /dev/null[m
+[36m@@ -1,19 +0,0 @@[m
+[31m-0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js[m
+[31m-1 info using npm@11.4.2[m
+[31m-2 info using node@v22.17.0[m
+[31m-3 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\npmrc[m
+[31m-4 silly config load:file:C:\Users\tyler\Desktop\recallbricks-mcp-simple\.npmrc[m
+[31m-5 silly config load:file:C:\Users\tyler\.npmrc[m
+[31m-6 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\etc\npmrc[m
+[31m-7 verbose title npm run build[m
+[31m-8 verbose argv "run" "build"[m
+[31m-9 verbose logfile logs-max:10 dir:C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_33_48_608Z-[m
+[31m-10 verbose logfile C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_33_48_608Z-debug-0.log[m
+[31m-11 silly logfile start cleaning logs, removing 1 files[m
+[31m-12 silly logfile done cleaning log files[m
+[31m-13 verbose cwd C:\Users\tyler\Desktop\recallbricks-mcp-simple[m
+[31m-14 verbose os Windows_NT 10.0.19045[m
+[31m-15 verbose node v22.17.0[m
+[31m-16 verbose npm  v11.4.2[m
+[31m-17 verbose exit 0[m
+[31m-18 info ok[m
+[1mdiff --git a/UsersTyler.npm-cache/_logs/2025-11-09T17_41_18_374Z-debug-0.log b/UsersTyler.npm-cache/_logs/2025-11-09T17_41_18_374Z-debug-0.log[m
+[1mdeleted file mode 100644[m
+[1mindex ab4c3ec..0000000[m
+[1m--- a/UsersTyler.npm-cache/_logs/2025-11-09T17_41_18_374Z-debug-0.log[m
+[1m+++ /dev/null[m
+[36m@@ -1,19 +0,0 @@[m
+[31m-0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js[m
+[31m-1 info using npm@11.4.2[m
+[31m-2 info using node@v22.17.0[m
+[31m-3 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\npmrc[m
+[31m-4 silly config load:file:C:\Users\tyler\Desktop\recallbricks-mcp-simple\.npmrc[m
+[31m-5 silly config load:file:C:\Users\tyler\.npmrc[m
+[31m-6 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\etc\npmrc[m
+[31m-7 verbose title npm run build[m
+[31m-8 verbose argv "run" "build"[m
+[31m-9 verbose logfile logs-max:10 dir:C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_41_18_374Z-[m
+[31m-10 verbose logfile C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_41_18_374Z-debug-0.log[m
+[31m-11 silly logfile start cleaning logs, removing 1 files[m
+[31m-12 silly logfile done cleaning log files[m
+[31m-13 verbose cwd C:\Users\tyler\Desktop\recallbricks-mcp-simple[m
+[31m-14 verbose os Windows_NT 10.0.19045[m
+[31m-15 verbose node v22.17.0[m
+[31m-16 verbose npm  v11.4.2[m
+[31m-17 verbose exit 0[m
+[31m-18 info ok[m
+[1mdiff --git a/UsersTyler.npm-cache/_logs/2025-11-09T17_46_34_131Z-debug-0.log b/UsersTyler.npm-cache/_logs/2025-11-09T17_46_34_131Z-debug-0.log[m
+[1mdeleted file mode 100644[m
+[1mindex e52ae31..0000000[m
+[1m--- a/UsersTyler.npm-cache/_logs/2025-11-09T17_46_34_131Z-debug-0.log[m
+[1m+++ /dev/null[m
+[36m@@ -1,19 +0,0 @@[m
+[31m-0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js[m
+[31m-1 info using npm@11.4.2[m
+[31m-2 info using node@v22.17.0[m
+[31m-3 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\npmrc[m
+[31m-4 silly config load:file:C:\Users\tyler\Desktop\recallbricks-mcp-simple\.npmrc[m
+[31m-5 silly config load:file:C:\Users\tyler\.npmrc[m
+[31m-6 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\etc\npmrc[m
+[31m-7 verbose title npm run build[m
+[31m-8 verbose argv "run" "build"[m
+[31m-9 verbose logfile logs-max:10 dir:C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_46_34_131Z-[m
+[31m-10 verbose logfile C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_46_34_131Z-debug-0.log[m
+[31m-11 silly logfile start cleaning logs, removing 1 files[m
+[31m-12 silly logfile done cleaning log files[m
+[31m-13 verbose cwd C:\Users\tyler\Desktop\recallbricks-mcp-simple[m
+[31m-14 verbose os Windows_NT 10.0.19045[m
+[31m-15 verbose node v22.17.0[m
+[31m-16 verbose npm  v11.4.2[m
+[31m-17 verbose exit 0[m
+[31m-18 info ok[m
+[1mdiff --git a/UsersTyler.npm-cache/_logs/2025-11-09T17_47_05_140Z-debug-0.log b/UsersTyler.npm-cache/_logs/2025-11-09T17_47_05_140Z-debug-0.log[m
+[1mdeleted file mode 100644[m
+[1mindex a5d9582..0000000[m
+[1m--- a/UsersTyler.npm-cache/_logs/2025-11-09T17_47_05_140Z-debug-0.log[m
+[1m+++ /dev/null[m
+[36m@@ -1,20 +0,0 @@[m
+[31m-0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js[m
+[31m-1 info using npm@11.4.2[m
+[31m-2 info using node@v22.17.0[m
+[31m-3 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\npmrc[m
+[31m-4 silly config load:file:C:\Users\tyler\Desktop\recallbricks-mcp-simple\.npmrc[m
+[31m-5 silly config load:file:C:\Users\tyler\.npmrc[m
+[31m-6 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\etc\npmrc[m
+[31m-7 verbose title npm view @anthropic-ai/claude-code@latest version[m
+[31m-8 verbose argv "view" "@anthropic-ai/claude-code@latest" "version" "--prefer-online"[m
+[31m-9 verbose logfile logs-max:10 dir:C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_47_05_140Z-[m
+[31m-10 verbose logfile C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T17_47_05_140Z-debug-0.log[m
+[31m-11 silly logfile start cleaning logs, removing 1 files[m
+[31m-12 silly logfile done cleaning log files[m
+[31m-13 http fetch GET 200 https://registry.npmjs.org/@anthropic-ai%2fclaude-code 667ms (cache revalidated)[m
+[31m-14 verbose cwd C:\Users\tyler\Desktop\recallbricks-mcp-simple[m
+[31m-15 verbose os Windows_NT 10.0.19045[m
+[31m-16 verbose node v22.17.0[m
+[31m-17 verbose npm  v11.4.2[m
+[31m-18 verbose exit 0[m
+[31m-19 info ok[m
+[1mdiff --git a/UsersTyler.npm-cache/_logs/2025-11-09T18_17_04_620Z-debug-0.log b/UsersTyler.npm-cache/_logs/2025-11-09T18_17_04_620Z-debug-0.log[m
+[1mdeleted file mode 100644[m
+[1mindex 3c0594f..0000000[m
+[1m--- a/UsersTyler.npm-cache/_logs/2025-11-09T18_17_04_620Z-debug-0.log[m
+[1m+++ /dev/null[m
+[36m@@ -1,20 +0,0 @@[m
+[31m-0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js[m
+[31m-1 info using npm@11.4.2[m
+[31m-2 info using node@v22.17.0[m
+[31m-3 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\npmrc[m
+[31m-4 silly config load:file:C:\Users\tyler\Desktop\recallbricks-mcp-simple\.npmrc[m
+[31m-5 silly config load:file:C:\Users\tyler\.npmrc[m
+[31m-6 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\etc\npmrc[m
+[31m-7 verbose title npm view @anthropic-ai/claude-code@latest version[m
+[31m-8 verbose argv "view" "@anthropic-ai/claude-code@latest" "version" "--prefer-online"[m
+[31m-9 verbose logfile logs-max:10 dir:C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T18_17_04_620Z-[m
+[31m-10 verbose logfile C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T18_17_04_620Z-debug-0.log[m
+[31m-11 silly logfile start cleaning logs, removing 1 files[m
+[31m-12 silly logfile done cleaning log files[m
+[31m-13 http fetch GET 200 https://registry.npmjs.org/@anthropic-ai%2fclaude-code 294ms (cache revalidated)[m
+[31m-14 verbose cwd C:\Users\tyler\Desktop\recallbricks-mcp-simple[m
+[31m-15 verbose os Windows_NT 10.0.19045[m
+[31m-16 verbose node v22.17.0[m
+[31m-17 verbose npm  v11.4.2[m
+[31m-18 verbose exit 0[m
+[31m-19 info ok[m
+[1mdiff --git a/UsersTyler.npm-cache/_logs/2025-11-09T18_47_04_871Z-debug-0.log b/UsersTyler.npm-cache/_logs/2025-11-09T18_47_04_871Z-debug-0.log[m
+[1mdeleted file mode 100644[m
+[1mindex d5da609..0000000[m
+[1m--- a/UsersTyler.npm-cache/_logs/2025-11-09T18_47_04_871Z-debug-0.log[m
+[1m+++ /dev/null[m
+[36m@@ -1,20 +0,0 @@[m
+[31m-0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js[m
+[31m-1 info using npm@11.4.2[m
+[31m-2 info using node@v22.17.0[m
+[31m-3 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\node_modules\npm\npmrc[m
+[31m-4 silly config load:file:C:\Users\tyler\Desktop\recallbricks-mcp-simple\.npmrc[m
+[31m-5 silly config load:file:C:\Users\tyler\.npmrc[m
+[31m-6 silly config load:file:C:\Users\tyler\AppData\Roaming\npm\etc\npmrc[m
+[31m-7 verbose title npm view @anthropic-ai/claude-code@latest version[m
+[31m-8 verbose argv "view" "@anthropic-ai/claude-code@latest" "version" "--prefer-online"[m
+[31m-9 verbose logfile logs-max:10 dir:C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T18_47_04_871Z-[m
+[31m-10 verbose logfile C:\Users\tyler\Desktop\recallbricks-mcp-simple\UsersTyler.npm-cache\_logs\2025-11-09T18_47_04_871Z-debug-0.log[m
+[31m-11 silly logfile start cleaning logs, removing 1 files[m
+[31m-12 silly logfile done cleaning log files[m
+[31m-13 http fetch GET 200 https://registry.npmjs.org/@anthropic-ai%2fclaude-code 343ms (cache revalidated)[m
+[31m-14 verbose cwd C:\Users\tyler\Desktop\recallbricks-mcp-simple[m
+[31m-15 verbose os Windows_NT 10.0.19045[m
+[31m-16 verbose node v22.17.0[m
+[31m-17 verbose npm  v11.4.2[m
+[31m-18 verbose exit 0[m
+[31m-19 info ok[m
+[1mdiff --git a/dist/index.js b/dist/index.js[m
+[1mindex 6249853..863efe1 100644[m
+[1m--- a/dist/index.js[m
+[1m+++ b/dist/index.js[m
+[36m@@ -19,6 +19,35 @@[m [mconst CONFIG = {[m
+     enableMetrics: process.env.ENABLE_METRICS !== "false", // Enabled by default[m
+     enableHealthChecks: process.env.ENABLE_HEALTH_CHECKS !== "false", // Enabled by default[m
+ };[m
+[32m+[m[32m/**[m
+[32m+[m[32m * Agent Configuration - Customizable via environment variables[m
+[32m+[m[32m *[m
+[32m+[m[32m * Users can set:[m
+[32m+[m[32m * - RECALLBRICKS_AGENT_ID: Unique identifier for this agent instance[m
+[32m+[m[32m * - RECALLBRICKS_AGENT_NAME: Display name (optional)[m
+[32m+[m[32m * - RECALLBRICKS_USER_ID: User identifier[m
+[32m+[m[32m *[m
+[32m+[m[32m * Example in claude_desktop_config.json:[m
+[32m+[m[32m * {[m
+[32m+[m[32m *   "mcpServers": {[m
+[32m+[m[32m *     "recallbricks": {[m
+[32m+[m[32m *       "command": "node",[m
+[32m+[m[32m *       "args": ["build/index.js"],[m
+[32m+[m[32m *       "env": {[m
+[32m+[m[32m *         "RECALLBRICKS_API_KEY": "rbk_...",[m
+[32m+[m[32m *         "RECALLBRICKS_AGENT_ID": "tyler_personal_assistant",[m
+[32m+[m[32m *         "RECALLBRICKS_AGENT_NAME": "Nova",[m
+[32m+[m[32m *         "RECALLBRICKS_USER_ID": "tyler"[m
+[32m+[m[32m *       }[m
+[32m+[m[32m *     }[m
+[32m+[m[32m *   }[m
+[32m+[m[32m * }[m
+[32m+[m[32m */[m
+[32m+[m[32mconst AGENT_CONFIG = {[m
+[32m+[m[32m    agentId: process.env.RECALLBRICKS_AGENT_ID || `claude_desktop_${process.env.USER || process.env.USERNAME || 'user'}`,[m
+[32m+[m[32m    displayName: process.env.RECALLBRICKS_AGENT_NAME,[m
+[32m+[m[32m    userId: process.env.RECALLBRICKS_USER_ID || 'default',[m
+[32m+[m[32m};[m
+ // ============================================================================[m
+ // CUSTOM ERROR CLASS[m
+ // ============================================================================[m
+[36m@@ -440,12 +469,194 @@[m [masync function queryMemoriesAPI(query, limit) {[m
+         }[m
+     });[m
+ }[m
+[32m+[m[32masync function predictMemoriesAPI(currentContext, recentMemories, limit) {[m
+[32m+[m[32m    return circuitBreaker.execute(async () => {[m
+[32m+[m[32m        const url = new URL(`${CONFIG.apiUrl}/api/v1/memories/predict`);[m
+[32m+[m[32m        if (currentContext) {[m
+[32m+[m[32m            url.searchParams.append('current_context', currentContext);[m
+[32m+[m[32m        }[m
+[32m+[m[32m        if (recentMemories && recentMemories.length > 0) {[m
+[32m+[m[32m            url.searchParams.append('recent_memories', JSON.stringify(recentMemories));[m
+[32m+[m[32m        }[m
+[32m+[m[32m        if (limit) {[m
+[32m+[m[32m            url.searchParams.append('limit', String(limit));[m
+[32m+[m[32m        }[m
+[32m+[m[32m        const response = await fetchWithRetry(url.toString(), {[m
+[32m+[m[32m            method: 'GET',[m
+[32m+[m[32m            headers: {[m
+[32m+[m[32m                'x-api-key': CONFIG.apiKey,[m
+[32m+[m[32m            },[m
+[32m+[m[32m        });[m
+[32m+[m[32m        if (!response.ok) {[m
+[32m+[m[32m            const errorData = await response.json().catch(() => ({}));[m
+[32m+[m[32m            throw new APIError(errorData.message || `Failed to predict memories: ${response.statusText}`, response.status, url.toString());[m
+[32m+[m[32m        }[m
+[32m+[m[32m        return await response.json();[m
+[32m+[m[32m    });[m
+[32m+[m[32m}[m
+[32m+[m[32masync function suggestMemoriesAPI(context, limit, includeReasoning, minConfidence) {[m
+[32m+[m[32m    const validatedContext = validateQuery(context);[m
+[32m+[m[32m    const validatedLimit = validateLimit(limit);[m
+[32m+[m[32m    return circuitBreaker.execute(async () => {[m
+[32m+[m[32m        const response = await fetchWithRetry(`${CONFIG.apiUrl}/api/v1/memories/suggest`, {[m
+[32m+[m[32m            method: 'POST',[m
+[32m+[m[32m            headers: {[m
+[32m+[m[32m                'x-api-key': CONFIG.apiKey,[m
+[32m+[m[32m                'Content-Type': 'application/json',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            body: JSON.stringify({[m
+[32m+[m[32m                context: validatedContext,[m
+[32m+[m[32m                limit: validatedLimit,[m
+[32m+[m[32m                include_reasoning: includeReasoning ?? true,[m
+[32m+[m[32m                min_confidence: minConfidence ?? 0.6,[m
+[32m+[m[32m            }),[m
+[32m+[m[32m        });[m
+[32m+[m[32m        if (!response.ok) {[m
+[32m+[m[32m            const errorData = await response.json().catch(() => ({}));[m
+[32m+[m[32m            throw new APIError(errorData.message || `Failed to get suggestions: ${response.statusText}`, response.status, `${CONFIG.apiUrl}/api/v1/memories/suggest`);[m
+[32m+[m[32m        }[m
+[32m+[m[32m        return await response.json();[m
+[32m+[m[32m    });[m
+[32m+[m[32m}[m
+[32m+[m[32masync function getLearningMetricsAPI(days) {[m
+[32m+[m[32m    return circuitBreaker.execute(async () => {[m
+[32m+[m[32m        const url = new URL(`${CONFIG.apiUrl}/api/v1/learning/metrics`);[m
+[32m+[m[32m        if (days) {[m
+[32m+[m[32m            url.searchParams.append('days', String(days));[m
+[32m+[m[32m        }[m
+[32m+[m[32m        const response = await fetchWithRetry(url.toString(), {[m
+[32m+[m[32m            method: 'GET',[m
+[32m+[m[32m            headers: {[m
+[32m+[m[32m                'x-api-key': CONFIG.apiKey,[m
+[32m+[m[32m            },[m
+[32m+[m[32m        });[m
+[32m+[m[32m        if (!response.ok) {[m
+[32m+[m[32m            const errorData = await response.json().catch(() => ({}));[m
+[32m+[m[32m            throw new APIError(errorData.message || `Failed to get learning metrics: ${response.statusText}`, response.status, url.toString());[m
+[32m+[m[32m        }[m
+[32m+[m[32m        return await response.json();[m
+[32m+[m[32m    });[m
+[32m+[m[32m}[m
+[32m+[m[32masync function getPatternsAPI(days) {[m
+[32m+[m[32m    return circuitBreaker.execute(async () => {[m
+[32m+[m[32m        const url = new URL(`${CONFIG.apiUrl}/api/v1/memories/meta/patterns`);[m
+[32m+[m[32m        if (days) {[m
+[32m+[m[32m            url.searchParams.append('days', String(days));[m
+[32m+[m[32m        }[m
+[32m+[m[32m        const response = await fetchWithRetry(url.toString(), {[m
+[32m+[m[32m            method: 'GET',[m
+[32m+[m[32m            headers: {[m
+[32m+[m[32m                'x-api-key': CONFIG.apiKey,[m
+[32m+[m[32m            },[m
+[32m+[m[32m        });[m
+[32m+[m[32m        if (!response.ok) {[m
+[32m+[m[32m            const errorData = await response.json().catch(() => ({}));[m
+[32m+[m[32m            throw new APIError(errorData.message || `Failed to get patterns: ${response.statusText}`, response.status, url.toString());[m
+[32m+[m[32m        }[m
+[32m+[m[32m        return await response.json();[m
+[32m+[m[32m    });[m
+[32m+[m[32m}[m
+[32m+[m[32masync function searchMemoriesWeightedAPI(query, limit, weightByUsage, decayOldMemories, learningMode, minHelpfulnessScore, adaptiveWeights) {[m
+[32m+[m[32m    const validatedQuery = validateQuery(query);[m
+[32m+[m[32m    const validatedLimit = validateLimit(limit);[m
+[32m+[m[32m    return circuitBreaker.execute(async () => {[m
+[32m+[m[32m        const response = await fetchWithRetry(`${CONFIG.apiUrl}/api/v1/memories/search`, {[m
+[32m+[m[32m            method: 'POST',[m
+[32m+[m[32m            headers: {[m
+[32m+[m[32m                'x-api-key': CONFIG.apiKey,[m
+[32m+[m[32m                'Content-Type': 'application/json',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            body: JSON.stringify({[m
+[32m+[m[32m                query: validatedQuery,[m
+[32m+[m[32m                limit: validatedLimit,[m
+[32m+[m[32m                weight_by_usage: weightByUsage ?? false,[m
+[32m+[m[32m                decay_old_memories: decayOldMemories ?? false,[m
+[32m+[m[32m                learning_mode: learningMode ?? false,[m
+[32m+[m[32m                min_helpfulness_score: minHelpfulnessScore,[m
+[32m+[m[32m                adaptive_weights: adaptiveWeights ?? true,[m
+[32m+[m[32m            }),[m
+[32m+[m[32m        });[m
+[32m+[m[32m        if (!response.ok) {[m
+[32m+[m[32m            const errorData = await response.json().catch(() => ({}));[m
+[32m+[m[32m            throw new APIError(errorData.message || `Failed to search memories: ${response.statusText}`, response.status, `${CONFIG.apiUrl}/api/v1/memories/search`);[m
+[32m+[m[32m        }[m
+[32m+[m[32m        return await response.json();[m
+[32m+[m[32m    });[m
+[32m+[m[32m}[m
+[32m+[m[32masync function getAgentContextAPI(agentId = 'nova', userId = 'default', depth = 'standard') {[m
+[32m+[m[32m    return circuitBreaker.execute(async () => {[m
+[32m+[m[32m        const response = await fetchWithRetry(`${CONFIG.apiUrl}/api/v1/agents/${agentId}/context`, {[m
+[32m+[m[32m            method: 'POST',[m
+[32m+[m[32m            headers: {[m
+[32m+[m[32m                'x-api-key': CONFIG.apiKey,[m
+[32m+[m[32m                'Content-Type': 'application/json',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            body: JSON.stringify({[m
+[32m+[m[32m                user_id: userId,[m
+[32m+[m[32m                depth: depth,[m
+[32m+[m[32m            }),[m
+[32m+[m[32m        });[m
+[32m+[m[32m        if (!response.ok) {[m
+[32m+[m[32m            const errorData = await response.json().catch(() => ({}));[m
+[32m+[m[32m            throw new APIError(errorData.message || `Failed to get agent context: ${response.statusText}`, response.status, `${CONFIG.apiUrl}/api/v1/agents/${agentId}/context`);[m
+[32m+[m[32m        }[m
+[32m+[m[32m        return await response.json();[m
+[32m+[m[32m    });[m
+[32m+[m[32m}[m
+[32m+[m[32masync function autoSaveMemoryAPI(text, userId = 'default', context, forceSave = false) {[m
+[32m+[m[32m    const validatedText = validateMemoryText(text);[m
+[32m+[m[32m    return circuitBreaker.execute(async () => {[m
+[32m+[m[32m        const response = await fetchWithRetry(`${CONFIG.apiUrl}/api/v1/memories/auto-save`, {[m
+[32m+[m[32m            method: 'POST',[m
+[32m+[m[32m            headers: {[m
+[32m+[m[32m                'x-api-key': CONFIG.apiKey,[m
+[32m+[m[32m                'Content-Type': 'application/json',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            body: JSON.stringify({[m
+[32m+[m[32m                text: validatedText,[m
+[32m+[m[32m                user_id: userId,[m
+[32m+[m[32m                context: context,[m
+[32m+[m[32m                force_save: forceSave,[m
+[32m+[m[32m            }),[m
+[32m+[m[32m        });[m
+[32m+[m[32m        if (!response.ok) {[m
+[32m+[m[32m            const errorData = await response.json().catch(() => ({}));[m
+[32m+[m[32m            throw new APIError(errorData.message || `Failed to auto-save memory: ${response.statusText}`, response.status, `${CONFIG.apiUrl}/api/v1/memories/auto-save`);[m
+[32m+[m[32m        }[m
+[32m+[m[32m        return await response.json();[m
+[32m+[m[32m    });[m
+[32m+[m[32m}[m
+[32m+[m[32masync function validateAgentIdentityAPI(agentId, responseText, autoCorrect = false) {[m
+[32m+[m[32m    if (typeof agentId !== 'string' || agentId.trim().length === 0) {[m
+[32m+[m[32m        throw new APIError('Agent ID must be a non-empty string', 400);[m
+[32m+[m[32m    }[m
+[32m+[m[32m    const validatedText = validateMemoryText(responseText);[m
+[32m+[m[32m    return circuitBreaker.execute(async () => {[m
+[32m+[m[32m        const response = await fetchWithRetry(`${CONFIG.apiUrl}/api/v1/agents/validate-identity`, {[m
+[32m+[m[32m            method: 'POST',[m
+[32m+[m[32m            headers: {[m
+[32m+[m[32m                'x-api-key': CONFIG.apiKey,[m
+[32m+[m[32m                'Content-Type': 'application/json',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            body: JSON.stringify({[m
+[32m+[m[32m                agent_id: agentId,[m
+[32m+[m[32m                response_text: validatedText,[m
+[32m+[m[32m                auto_correct: autoCorrect,[m
+[32m+[m[32m            }),[m
+[32m+[m[32m        });[m
+[32m+[m[32m        if (!response.ok) {[m
+[32m+[m[32m            const errorData = await response.json().catch(() => ({}));[m
+[32m+[m[32m            throw new APIError(errorData.message || `Failed to validate agent identity: ${response.statusText}`, response.status, `${CONFIG.apiUrl}/api/v1/agents/validate-identity`);[m
+[32m+[m[32m        }[m
+[32m+[m[32m        return await response.json();[m
+[32m+[m[32m    });[m
+[32m+[m[32m}[m
+ // ============================================================================[m
+ // MCP SERVER SETUP[m
+ // ============================================================================[m
+ const server = new Server({[m
+     name: 'recallbricks-memory',[m
+[31m-    version: '2.0.0',[m
+[32m+[m[32m    version: '3.0.0',[m
+ }, {[m
+     capabilities: {[m
+         tools: {},[m
+[36m@@ -487,6 +698,191 @@[m [mserver.setRequestHandler(ListToolsRequestSchema, async () => {[m
+                     required: ['query'],[m
+                 },[m
+             },[m
+[32m+[m[32m            {[m
+[32m+[m[32m                name: 'search_memories_weighted',[m
+[32m+[m[32m                description: 'Advanced semantic search with usage-based weighting, recency decay, and adaptive learning',[m
+[32m+[m[32m                inputSchema: {[m
+[32m+[m[32m                    type: 'object',[m
+[32m+[m[32m                    properties: {[m
+[32m+[m[32m                        query: {[m
+[32m+[m[32m                            type: 'string',[m
+[32m+[m[32m                            description: 'Search query to find relevant memories',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                        limit: {[m
+[32m+[m[32m                            type: 'number',[m
+[32m+[m[32m                            description: 'Maximum number of memories to return (1-100, default: 10)',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                        weight_by_usage: {[m
+[32m+[m[32m                            type: 'boolean',[m
+[32m+[m[32m                            description: 'Boost frequently-used memories in results (default: false)',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                        decay_old_memories: {[m
+[32m+[m[32m                            type: 'boolean',[m
+[32m+[m[32m                            description: 'Penalize stale memories not accessed in 90+ days (default: false)',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                        learning_mode: {[m
+[32m+[m[32m                            type: 'boolean',[m
+[32m+[m[32m                            description: 'Track which results are used to improve future searches (default: false)',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                        min_helpfulness_score: {[m
+[32m+[m[32m                            type: 'number',[m
+[32m+[m[32m                            description: 'Filter results below this helpfulness threshold (0.0-1.0)',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                        adaptive_weights: {[m
+[32m+[m[32m                            type: 'boolean',[m
+[32m+[m[32m                            description: 'Use per-user learned weights for personalization (default: true)',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                    },[m
+[32m+[m[32m                    required: ['query'],[m
+[32m+[m[32m                },[m
+[32m+[m[32m            },[m
+[32m+[m[32m            {[m
+[32m+[m[32m                name: 'predict_memories',[m
+[32m+[m[32m                description: 'Predict which memories will likely be needed next based on context and usage patterns',[m
+[32m+[m[32m                inputSchema: {[m
+[32m+[m[32m                    type: 'object',[m
+[32m+[m[32m                    properties: {[m
+[32m+[m[32m                        current_context: {[m
+[32m+[m[32m                            type: 'string',[m
+[32m+[m[32m                            description: 'What you are currently working on or thinking about',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                        recent_memories: {[m
+[32m+[m[32m                            type: 'array',[m
+[32m+[m[32m                            items: { type: 'string' },[m
+[32m+[m[32m                            description: 'Array of recently accessed memory IDs',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                        limit: {[m
+[32m+[m[32m                            type: 'number',[m
+[32m+[m[32m                            description: 'Number of predictions to return (default: 10)',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                    },[m
+[32m+[m[32m                    required: [],[m
+[32m+[m[32m                },[m
+[32m+[m[32m            },[m
+[32m+[m[32m            {[m
+[32m+[m[32m                name: 'suggest_memories',[m
+[32m+[m[32m                description: 'Proactively suggest relevant memories before you ask for them, based on current context',[m
+[32m+[m[32m                inputSchema: {[m
+[32m+[m[32m                    type: 'object',[m
+[32m+[m[32m                    properties: {[m
+[32m+[m[32m                        context: {[m
+[32m+[m[32m                            type: 'string',[m
+[32m+[m[32m                            description: 'Current work context or what you are planning to do',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                        limit: {[m
+[32m+[m[32m                            type: 'number',[m
+[32m+[m[32m                            description: 'Maximum number of suggestions to return (default: 5)',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                        include_reasoning: {[m
+[32m+[m[32m                            type: 'boolean',[m
+[32m+[m[32m                            description: 'Include explanation for why each memory was suggested (default: true)',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                        min_confidence: {[m
+[32m+[m[32m                            type: 'number',[m
+[32m+[m[32m                            description: 'Minimum confidence threshold for suggestions (0.0-1.0, default: 0.6)',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                    },[m
+[32m+[m[32m                    required: ['context'],[m
+[32m+[m[32m                },[m
+[32m+[m[32m            },[m
+[32m+[m[32m            {[m
+[32m+[m[32m                name: 'get_learning_metrics',[m
+[32m+[m[32m                description: 'Get system learning metrics and improvement velocity over time',[m
+[32m+[m[32m                inputSchema: {[m
+[32m+[m[32m                    type: 'object',[m
+[32m+[m[32m                    properties: {[m
+[32m+[m[32m                        days: {[m
+[32m+[m[32m                            type: 'number',[m
+[32m+[m[32m                            description: 'Time range in days for metrics analysis (default: 30)',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                    },[m
+[32m+[m[32m                    required: [],[m
+[32m+[m[32m                },[m
+[32m+[m[32m            },[m
+[32m+[m[32m            {[m
+[32m+[m[32m                name: 'get_patterns',[m
+[32m+[m[32m                description: 'Analyze usage patterns, identify underutilized memories, and discover access patterns',[m
+[32m+[m[32m                inputSchema: {[m
+[32m+[m[32m                    type: 'object',[m
+[32m+[m[32m                    properties: {[m
+[32m+[m[32m                        days: {[m
+[32m+[m[32m                            type: 'number',[m
+[32m+[m[32m                            description: 'Time window for pattern analysis in days (default: 30)',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                    },[m
+[32m+[m[32m                    required: [],[m
+[32m+[m[32m                },[m
+[32m+[m[32m            },[m
+[32m+[m[32m            {[m
+[32m+[m[32m                name: 'get_agent_context',[m
+[32m+[m[32m                description: `Load agent identity, recent memories, and behavioral context. Uses agent_id: ${AGENT_CONFIG.agentId}`,[m
+[32m+[m[32m                inputSchema: {[m
+[32m+[m[32m                    type: 'object',[m
+[32m+[m[32m                    properties: {[m
+[32m+[m[32m                        agent_id: {[m
+[32m+[m[32m                            type: 'string',[m
+[32m+[m[32m                            description: `Agent identifier (default: ${AGENT_CONFIG.agentId})`,[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                        user_id: {[m
+[32m+[m[32m                            type: 'string',[m
+[32m+[m[32m                            description: `User identifier (default: ${AGENT_CONFIG.userId})`,[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                        depth: {[m
+[32m+[m[32m                            type: 'string',[m
+[32m+[m[32m                            description: 'Context depth: quick, standard, or comprehensive (default: standard)',[m
+[32m+[m[32m                            enum: ['quick', 'standard', 'comprehensive'],[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                    },[m
+[32m+[m[32m                },[m
+[32m+[m[32m            },[m
+[32m+[m[32m            {[m
+[32m+[m[32m                name: 'auto_save_memory',[m
+[32m+[m[32m                description: 'Automatically classify and save important conversation turns (decisions, facts, preferences, outcomes)',[m
+[32m+[m[32m                inputSchema: {[m
+[32m+[m[32m                    type: 'object',[m
+[32m+[m[32m                    properties: {[m
+[32m+[m[32m                        text: {[m
+[32m+[m[32m                            type: 'string',[m
+[32m+[m[32m                            description: 'The conversation text to analyze and potentially save',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                        user_id: {[m
+[32m+[m[32m                            type: 'string',[m
+[32m+[m[32m                            description: 'The user identifier (default: default)',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                        context: {[m
+[32m+[m[32m                            type: 'string',[m
+[32m+[m[32m                            description: 'Additional context about the conversation (optional)',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                        force_save: {[m
+[32m+[m[32m                            type: 'boolean',[m
+[32m+[m[32m                            description: 'Force save regardless of classification (default: false)',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                    },[m
+[32m+[m[32m                    required: ['text'],[m
+[32m+[m[32m                },[m
+[32m+[m[32m            },[m
+[32m+[m[32m            {[m
+[32m+[m[32m                name: 'validate_agent_identity',[m
+[32m+[m[32m                description: 'Check agent responses for identity leakage (references to base models like Claude, ChatGPT)',[m
+[32m+[m[32m                inputSchema: {[m
+[32m+[m[32m                    type: 'object',[m
+[32m+[m[32m                    properties: {[m
+[32m+[m[32m                        agent_id: {[m
+[32m+[m[32m                            type: 'string',[m
+[32m+[m[32m                            description: 'The agent identifier to validate against',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                        response_text: {[m
+[32m+[m[32m                            type: 'string',[m
+[32m+[m[32m                            description: 'The agent response text to validate',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                        auto_correct: {[m
+[32m+[m[32m                            type: 'boolean',[m
+[32m+[m[32m                            description: 'Automatically generate corrected response (default: false)',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                    },[m
+[32m+[m[32m                    required: ['agent_id', 'response_text'],[m
+[32m+[m[32m                },[m
+[32m+[m[32m            },[m
+             {[m
+                 name: 'get_health',[m
+                 description: 'Get the current health status and metrics of the RecallBricks MCP server',[m
+[36m@@ -538,6 +934,244 @@[m [mserver.setRequestHandler(CallToolRequestSchema, async (request) => {[m
+                 ],[m
+             };[m
+         }[m
+[32m+[m[32m        if (name === 'search_memories_weighted') {[m
+[32m+[m[32m            const result = await searchMemoriesWeightedAPI(args.query, args.limit, args.weight_by_usage, args.decay_old_memories, args.learning_mode, args.min_helpfulness_score, args.adaptive_weights);[m
+[32m+[m[32m            const memories = result.memories || [];[m
+[32m+[m[32m            if (memories.length === 0) {[m
+[32m+[m[32m                return {[m
+[32m+[m[32m                    content: [[m
+[32m+[m[32m                        {[m
+[32m+[m[32m                            type: 'text',[m
+[32m+[m[32m                            text: '📭 No memories found matching your query.',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                    ],[m
+[32m+[m[32m                };[m
+[32m+[m[32m            }[m
+[32m+[m[32m            const memoryText = memories[m
+[32m+[m[32m                .map((m, idx) => {[m
+[32m+[m[32m                const boost = m.boosted_by_usage ? ' [BOOSTED BY USAGE]' : '';[m
+[32m+[m[32m                const recency = m.boosted_by_recency ? ' [RECENT]' : '';[m
+[32m+[m[32m                const penalized = m.penalized_by_age ? ' [STALE]' : '';[m
+[32m+[m[32m                const score = m.weighted_score ? ` (score: ${m.weighted_score.toFixed(2)})` : '';[m
+[32m+[m[32m                return `${idx + 1}. [${m.id}]${boost}${recency}${penalized}${score}\n   ${m.text.substring(0, 200)}${m.text.length > 200 ? '...' : ''}\n   Helpfulness: ${m.helpfulness_score?.toFixed(2) || 'N/A'} | Usage: ${m.usage_count || 0}`;[m
+[32m+[m[32m            })[m
+[32m+[m[32m                .join('\n\n');[m
+[32m+[m[32m            return {[m
+[32m+[m[32m                content: [[m
+[32m+[m[32m                    {[m
+[32m+[m[32m                        type: 'text',[m
+[32m+[m[32m                        text: `🔍 Found ${memories.length} ${memories.length === 1 ? 'memory' : 'memories'}${result.total ? ` (total: ${result.total})` : ''}:\n${result.weighted ? '\n[Using weighted search with adaptive learning]' : ''}\n\n${memoryText}`,[m
+[32m+[m[32m                    },[m
+[32m+[m[32m                ],[m
+[32m+[m[32m            };[m
+[32m+[m[32m        }[m
+[32m+[m[32m        if (name === 'predict_memories') {[m
+[32m+[m[32m            const result = await predictMemoriesAPI(args.current_context, args.recent_memories, args.limit);[m
+[32m+[m[32m            const predictions = result.predictions || [];[m
+[32m+[m[32m            if (predictions.length === 0) {[m
+[32m+[m[32m                return {[m
+[32m+[m[32m                    content: [[m
+[32m+[m[32m                        {[m
+[32m+[m[32m                            type: 'text',[m
+[32m+[m[32m                            text: '🔮 No memory predictions available. Try providing more context or recent memory IDs.',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                    ],[m
+[32m+[m[32m                };[m
+[32m+[m[32m            }[m
+[32m+[m[32m            const predictionText = predictions[m
+[32m+[m[32m                .map((p, idx) => {[m
+[32m+[m[32m                const reasons = p.reasons.join(', ');[m
+[32m+[m[32m                return `${idx + 1}. [${p.memory_id}] Confidence: ${(p.confidence * 100).toFixed(0)}%\n   ${p.text.substring(0, 150)}${p.text.length > 150 ? '...' : ''}\n   Reasons: ${reasons}\n   Helpfulness: ${p.helpfulness_score?.toFixed(2) || 'N/A'} | Usage: ${p.usage_count || 0}`;[m
+[32m+[m[32m            })[m
+[32m+[m[32m                .join('\n\n');[m
+[32m+[m[32m            return {[m
+[32m+[m[32m                content: [[m
+[32m+[m[32m                    {[m
+[32m+[m[32m                        type: 'text',[m
+[32m+[m[32m                        text: `🔮 Predicted ${predictions.length} ${predictions.length === 1 ? 'memory' : 'memories'} you might need:\n${result.context ? `Context: ${result.context}\n` : ''}\n${predictionText}`,[m
+[32m+[m[32m                    },[m
+[32m+[m[32m                ],[m
+[32m+[m[32m            };[m
+[32m+[m[32m        }[m
+[32m+[m[32m        if (name === 'suggest_memories') {[m
+[32m+[m[32m            const result = await suggestMemoriesAPI(args.context, args.limit, args.include_reasoning, args.min_confidence);[m
+[32m+[m[32m            const suggestions = result.suggestions || [];[m
+[32m+[m[32m            if (suggestions.length === 0) {[m
+[32m+[m[32m                return {[m
+[32m+[m[32m                    content: [[m
+[32m+[m[32m                        {[m
+[32m+[m[32m                            type: 'text',[m
+[32m+[m[32m                            text: '💡 No memory suggestions available for this context.',[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                    ],[m
+[32m+[m[32m                };[m
+[32m+[m[32m            }[m
+[32m+[m[32m            const suggestionText = suggestions[m
+[32m+[m[32m                .map((s, idx) => {[m
+[32m+[m[32m                const analytics = s.analytics[m
+[32m+[m[32m                    ? `\n   Analytics: ${s.analytics.access_frequency} frequency | ${s.analytics.days_since_access} days since access`[m
+[32m+[m[32m                    : '';[m
+[32m+[m[32m                const reasoning = s.reasoning && args.include_reasoning[m
+[32m+[m[32m                    ? `\n   Why: ${s.reasoning.semantic_match || 'Semantically matched'}, helpful=${s.reasoning.high_helpfulness}`[m
+[32m+[m[32m                    : '';[m
+[32m+[m[32m                return `${idx + 1}. [${s.memory_id}] Score: ${s.suggestion_score.toFixed(2)}\n   ${s.text.substring(0, 150)}${s.text.length > 150 ? '...' : ''}${analytics}${reasoning}`;[m
+[32m+[m[32m            })[m
+[32m+[m[32m                .join('\n\n');[m
+[32m+[m[32m            return {[m
+[32m+[m[32m                content: [[m
+[32m+[m[32m                    {[m
+[32m+[m[32m                        type: 'text',[m
+[32m+[m[32m                        text: `💡 Suggested ${suggestions.length} relevant ${suggestions.length === 1 ? 'memory' : 'memories'}:\nContext: ${result.context}\n\n${suggestionText}`,[m
+[32m+[m[32m                    },[m
+[32m+[m[32m                ],[m
+[32m+[m[32m            };[m
+[32m+[m[32m        }[m
+[32m+[m[32m        if (name === 'get_learning_metrics') {[m
+[32m+[m[32m            const result = await getLearningMetricsAPI(args.days);[m
+[32m+[m[32m            const metricsText = Object.entries(result.trends || {})[m
+[32m+[m[32m                .map(([metric, data]) => {[m
+[32m+[m[32m                const trend = data.trend || 'stable';[m
+[32m+[m[32m                const change = data.percent_change ? `${data.percent_change > 0 ? '+' : ''}${data.percent_change.toFixed(1)}%` : 'N/A';[m
+[32m+[m[32m                return `${metric}: ${trend} (${change})`;[m
+[32m+[m[32m            })[m
+[32m+[m[32m                .join('\n');[m
+[32m+[m[32m            const currentStats = Object.entries(result.current_stats || {})[m
+[32m+[m[32m                .map(([key, value]) => `${key}: ${typeof value === 'number' ? value.toFixed(2) : value}`)[m
+[32m+[m[32m                .join('\n');[m
+[32m+[m[32m            const learningParams = result.learning_params[m
+[32m+[m[32m                ? `\n\nLearning Parameters:\n${Object.entries(result.learning_params).map(([k, v]) => `${k}: ${typeof v === 'number' ? v.toFixed(2) : v}`).join('\n')}`[m
+[32m+[m[32m                : '';[m
+[32m+[m[32m            return {[m
+[32m+[m[32m                content: [[m
+[32m+[m[32m                    {[m
+[32m+[m[32m                        type: 'text',[m
+[32m+[m[32m                        text: `📊 Learning Metrics (${result.time_range.days} days)\n\nTrends:\n${metricsText}\n\nCurrent Stats:\n${currentStats}${learningParams}\n\nActive Patterns: ${result.active_patterns || 0}`,[m
+[32m+[m[32m                    },[m
+[32m+[m[32m                ],[m
+[32m+[m[32m            };[m
+[32m+[m[32m        }[m
+[32m+[m[32m        if (name === 'get_patterns') {[m
+[32m+[m[32m            const result = await getPatternsAPI(args.days);[m
+[32m+[m[32m            const topTags = result.most_useful_tags[m
+[32m+[m[32m                ?.slice(0, 5)[m
+[32m+[m[32m                .map((t, i) => `${i + 1}. ${t.tag}: ${(t.avg_helpfulness * 100).toFixed(0)}% helpful (${t.usage_count} uses)`)[m
+[32m+[m[32m                .join('\n') || 'No tag data';[m
+[32m+[m[32m            const coAccess = result.frequently_accessed_together[m
+[32m+[m[32m                ?.slice(0, 5)[m
+[32m+[m[32m                .map((p, i) => `${i + 1}. Memories accessed together ${p.co_access_count} times`)[m
+[32m+[m[32m                .join('\n') || 'No co-access patterns';[m
+[32m+[m[32m            const underutilized = result.underutilized_memories[m
+[32m+[m[32m                ?.slice(0, 5)[m
+[32m+[m[32m                .map((m, i) => `${i + 1}. [${m.id}] ${m.text.substring(0, 80)}...\n   Last accessed: ${m.days_since_access} days ago`)[m
+[32m+[m[32m                .join('\n\n') || 'All memories are being used';[m
+[32m+[m[32m            const summary = result.summary;[m
+[32m+[m[32m            return {[m
+[32m+[m[32m                content: [[m
+[32m+[m[32m                    {[m
+[32m+[m[32m                        type: 'text',[m
+[32m+[m[32m                        text: `📈 Usage Patterns\n\nSummary:\n- Total: ${summary.total_memories} memories\n- Active: ${summary.active_memories}\n- Stale: ${summary.stale_memories}\n- Avg Helpfulness: ${(summary.avg_helpfulness * 100).toFixed(0)}%\n- Total Accesses: ${summary.total_accesses}\n\nMost Useful Tags:\n${topTags}\n\nFrequently Accessed Together:\n${coAccess}\n\nUnderutilized Memories:\n${underutilized}`,[m
+[32m+[m[32m                    },[m
+[32m+[m[32m                ],[m
+[32m+[m[32m            };[m
+[32m+[m[32m        }[m
+[32m+[m[32m        if (name === 'get_agent_context') {[m
+[32m+[m[32m            const agentId = args.agent_id || AGENT_CONFIG.agentId;[m
+[32m+[m[32m            const userId = args.user_id || AGENT_CONFIG.userId;[m
+[32m+[m[32m            const depth = args.depth || 'standard';[m
+[32m+[m[32m            const result = await getAgentContextAPI(agentId, userId, depth);[m
+[32m+[m[32m            const identity = result.agent_identity;[m
+[32m+[m[32m            const memories = result.recent_memories || [];[m
+[32m+[m[32m            const patterns = result.key_patterns || [];[m
+[32m+[m[32m            const memoriesText = memories.length > 0[m
+[32m+[m[32m                ? memories[m
+[32m+[m[32m                    .slice(0, 5)[m
+[32m+[m[32m                    .map((m, idx) => `${idx + 1}. ${m.text.substring(0, 100)}${m.text.length > 100 ? '...' : ''}`)[m
+[32m+[m[32m                    .join('\n')[m
+[32m+[m[32m                : 'No recent memories';[m
+[32m+[m[32m            const patternsText = patterns.length > 0[m
+[32m+[m[32m                ? patterns.slice(0, 5).join('\n- ')[m
+[32m+[m[32m                : 'No patterns identified yet';[m
+[32m+[m[32m            return {[m
+[32m+[m[32m                content: [[m
+[32m+[m[32m                    {[m
+[32m+[m[32m                        type: 'text',[m
+[32m+[m[32m                        text: `🤖 Agent Context Loaded: ${identity.name}\n\n` +[m
+[32m+[m[32m                            `Purpose: ${identity.purpose}\n\n` +[m
+[32m+[m[32m                            `Traits: ${identity.traits.join(', ')}\n\n` +[m
+[32m+[m[32m                            `Behavioral Rules:\n- ${identity.behavioral_rules.join('\n- ')}\n\n` +[m
+[32m+[m[32m                            `Recent Memories (${memories.length}):\n${memoriesText}\n\n` +[m
+[32m+[m[32m                            `Key Patterns:\n- ${patternsText}\n\n` +[m
+[32m+[m[32m                            `⚠️ IMPORTANT: You are ${identity.name}, not a generic AI model.\n\n` +[m
+[32m+[m[32m                            `System Prompt:\n${result.system_prompt_injection}`,[m
+[32m+[m[32m                    },[m
+[32m+[m[32m                ],[m
+[32m+[m[32m            };[m
+[32m+[m[32m        }[m
+[32m+[m[32m        if (name === 'auto_save_memory') {[m
+[32m+[m[32m            const text = args.text;[m
+[32m+[m[32m            const userId = args.user_id || AGENT_CONFIG.userId;[m
+[32m+[m[32m            const context = args.context;[m
+[32m+[m[32m            const forceSave = args.force_save || false;[m
+[32m+[m[32m            const result = await autoSaveMemoryAPI(text, userId, context, forceSave);[m
+[32m+[m[32m            if (result.saved) {[m
+[32m+[m[32m                return {[m
+[32m+[m[32m                    content: [[m
+[32m+[m[32m                        {[m
+[32m+[m[32m                            type: 'text',[m
+[32m+[m[32m                            text: `✅ Memory saved! Category: ${result.category} (Confidence: ${(result.confidence * 100).toFixed(0)}%)\n\n` +[m
+[32m+[m[32m                                `Reasoning: ${result.reasoning}\n\n` +[m
+[32m+[m[32m                                `Memory ID: ${result.memory_id}`,[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                    ],[m
+[32m+[m[32m                };[m
+[32m+[m[32m            }[m
+[32m+[m[32m            else {[m
+[32m+[m[32m                return {[m
+[32m+[m[32m                    content: [[m
+[32m+[m[32m                        {[m
+[32m+[m[32m                            type: 'text',[m
+[32m+[m[32m                            text: `📝 Not saved - classified as brainstorming/discussion only\n\n` +[m
+[32m+[m[32m                                `Reasoning: ${result.reasoning}`,[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                    ],[m
+[32m+[m[32m                };[m
+[32m+[m[32m            }[m
+[32m+[m[32m        }[m
+[32m+[m[32m        if (name === 'validate_agent_identity') {[m
+[32m+[m[32m            const agentId = args.agent_id || AGENT_CONFIG.agentId;[m
+[32m+[m[32m            const responseText = args.response_text;[m
+[32m+[m[32m            const autoCorrect = args.auto_correct || false;[m
+[32m+[m[32m            const result = await validateAgentIdentityAPI(agentId, responseText, autoCorrect);[m
+[32m+[m[32m            if (result.identity_maintained) {[m
+[32m+[m[32m                return {[m
+[32m+[m[32m                    content: [[m
+[32m+[m[32m                        {[m
+[32m+[m[32m                            type: 'text',[m
+[32m+[m[32m                            text: `✅ Identity maintained - no leakage detected`,[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                    ],[m
+[32m+[m[32m                };[m
+[32m+[m[32m            }[m
+[32m+[m[32m            else {[m
+[32m+[m[32m                const violations = result.violations || [];[m
+[32m+[m[32m                const violationsText = violations[m
+[32m+[m[32m                    .map(v => `- ${v.type}: "${v.text}"`)[m
+[32m+[m[32m                    .join('\n');[m
+[32m+[m[32m                let responseText = `⚠️ Identity leakage detected:\n${violationsText}\n\n` +[m
+[32m+[m[32m                    `Agent should be: ${result.agent_name}`;[m
+[32m+[m[32m                if (result.corrected_response) {[m
+[32m+[m[32m                    responseText += `\n\nSuggested correction:\n${result.corrected_response}`;[m
+[32m+[m[32m                }[m
+[32m+[m[32m                return {[m
+[32m+[m[32m                    content: [[m
+[32m+[m[32m                        {[m
+[32m+[m[32m                            type: 'text',[m
+[32m+[m[32m                            text: responseText,[m
+[32m+[m[32m                        },[m
+[32m+[m[32m                    ],[m
+[32m+[m[32m                };[m
+[32m+[m[32m            }[m
+[32m+[m[32m        }[m
+         if (name === 'get_health') {[m
+             const cbStats = circuitBreaker.getStats();[m
+             const cacheSize = memoryCache.size();[m
+[36m@@ -592,7 +1226,11 @@[m [masync function main() {[m
+     startHealthChecks();[m
+     const transport = new StdioServerTransport();[m
+     await server.connect(transport);[m
+[31m-    console.error('✨ RecallBricks MCP Server v2.0.0 - Production Ready');[m
+[32m+[m[32m    console.error('✨ RecallBricks MCP Server v3.0.0 - With Metacognition & Predictive AI');[m
+[32m+[m[32m    console.error('🤖 Agent Configuration:');[m
+[32m+[m[32m    console.error(`   Agent ID: ${AGENT_CONFIG.agentId}`);[m
+[32m+[m[32m    console.error(`   Display Name: ${AGENT_CONFIG.displayName || 'Not specified'}`);[m
+[32m+[m[32m    console.error(`   User ID: ${AGENT_CONFIG.userId}`);[m
+     console.error(`🔗 Connected to: ${CONFIG.apiUrl}`);[m
+     console.error(`🔑 API Key: ${CONFIG.apiKey.substring(0, 10)}...`);[m
+     console.error(`🛡️  Circuit Breaker: ${circuitBreaker.getState()}`);[m
+[1mdiff --git a/package.json b/package.json[m
+[1mindex 2c1f922..f003d57 100644[m
+[1m--- a/package.json[m
+[1m+++ b/package.json[m
+[36m@@ -1,6 +1,6 @@[m
+ {[m
+   "name": "recallbricks-mcp-simple",[m
+[31m-  "version": "1.0.0",[m
+[32m+[m[32m  "version": "3.0.0",[m
+   "type": "module",[m
+   "main": "dist/index.js",[m
+   "scripts": {[m
+[1mdiff --git a/src/index.ts b/src/index.ts[m
+[1mindex d55df51..6abf5ac 100644[m
+[1m--- a/src/index.ts[m
+[1m+++ b/src/index.ts[m
+[36m@@ -32,6 +32,129 @@[m [minterface CreateMemoryResponse {[m
+ interface QueryMemoriesResponse {[m
+   memories: Memory[];[m
+   total?: number;[m
+[32m+[m[32m  count?: number;[m
+[32m+[m[32m  query?: string;[m
+[32m+[m[32m  weighted?: boolean;[m
+[32m+[m[32m  learning_mode?: boolean;[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32minterface PredictMemoriesResponse {[m
+[32m+[m[32m  predictions: Array<{[m
+[32m+[m[32m    memory_id: string;[m
+[32m+[m[32m    text: string;[m
+[32m+[m[32m    confidence: number;[m
+[32m+[m[32m    reasons: string[];[m
+[32m+[m[32m    related_to?: string[];[m
+[32m+[m[32m    helpfulness_score?: number;[m
+[32m+[m[32m    usage_count?: number;[m
+[32m+[m[32m  }>;[m
+[32m+[m[32m  count: number;[m
+[32m+[m[32m  context?: string;[m
+[32m+[m[32m  recent_memories?: string[];[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32minterface SuggestMemoriesResponse {[m
+[32m+[m[32m  suggestions: Array<{[m
+[32m+[m[32m    memory_id: string;[m
+[32m+[m[32m    text: string;[m
+[32m+[m[32m    similarity: number;[m
+[32m+[m[32m    suggestion_score: number;[m
+[32m+[m[32m    analytics?: {[m
+[32m+[m[32m      usage_count: number;[m
+[32m+[m[32m      helpfulness_score: number;[m
+[32m+[m[32m      recency_score: number;[m
+[32m+[m[32m      access_frequency: string;[m
+[32m+[m[32m      days_since_access: number;[m
+[32m+[m[32m    };[m
+[32m+[m[32m    reasoning?: any;[m
+[32m+[m[32m    related_memories?: any[];[m
+[32m+[m[32m  }>;[m
+[32m+[m[32m  count: number;[m
+[32m+[m[32m  context: string;[m
+[32m+[m[32m  weights_used?: any;[m
+[32m+[m[32m  min_confidence?: number;[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32minterface LearningMetricsResponse {[m
+[32m+[m[32m  time_series: Array<{[m
+[32m+[m[32m    metric_type: string;[m
+[32m+[m[32m    data: Array<{[m
+[32m+[m[32m      value: number;[m
+[32m+[m[32m      recorded_at: string;[m
+[32m+[m[32m    }>;[m
+[32m+[m[32m  }>;[m
+[32m+[m[32m  trends: Record<string, any>;[m
+[32m+[m[32m  current_stats: Record<string, any>;[m
+[32m+[m[32m  learning_params?: Record<string, any>;[m
+[32m+[m[32m  active_patterns?: number;[m
+[32m+[m[32m  time_range: {[m
+[32m+[m[32m    days: number;[m
+[32m+[m[32m    from: string;[m
+[32m+[m[32m    to: string;[m
+[32m+[m[32m  };[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32minterface PatternsResponse {[m
+[32m+[m[32m  most_useful_tags: Array<{[m
+[32m+[m[32m    tag: string;[m
+[32m+[m[32m    avg_helpfulness: number;[m
+[32m+[m[32m    usage_count: number;[m
+[32m+[m[32m  }>;[m
+[32m+[m[32m  frequently_accessed_together: Array<{[m
+[32m+[m[32m    memory_id_1: string;[m
+[32m+[m[32m    memory_id_2: string;[m
+[32m+[m[32m    co_access_count: number;[m
+[32m+[m[32m  }>;[m
+[32m+[m[32m  underutilized_memories: Array<{[m
+[32m+[m[32m    id: string;[m
+[32m+[m[32m    text: string;[m
+[32m+[m[32m    days_since_access: number;[m
+[32m+[m[32m    usage_count: number;[m
+[32m+[m[32m  }>;[m
+[32m+[m[32m  access_time_patterns?: any;[m
+[32m+[m[32m  optimal_relationship_types?: Record<string, number>;[m
+[32m+[m[32m  summary: {[m
+[32m+[m[32m    total_memories: number;[m
+[32m+[m[32m    total_accesses: number;[m
+[32m+[m[32m    avg_helpfulness: number;[m
+[32m+[m[32m    active_memories: number;[m
+[32m+[m[32m    stale_memories: number;[m
+[32m+[m[32m  };[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32minterface AgentContextResponse {[m
+[32m+[m[32m  agent_identity: {[m
+[32m+[m[32m    agent_id: string;[m
+[32m+[m[32m    name: string;[m
+[32m+[m[32m    purpose: string;[m
+[32m+[m[32m    traits: string[];[m
+[32m+[m[32m    behavioral_rules: string[];[m
+[32m+[m[32m  };[m
+[32m+[m[32m  recent_memories: Array<{[m
+[32m+[m[32m    id: string;[m
+[32m+[m[32m    text: string;[m
+[32m+[m[32m    created_at: string;[m
+[32m+[m[32m  }>;[m
+[32m+[m[32m  key_patterns: string[];[m
+[32m+[m[32m  system_prompt_injection: string;[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32minterface AutoSaveMemoryResponse {[m
+[32m+[m[32m  saved: boolean;[m
+[32m+[m[32m  category?: string;[m
+[32m+[m[32m  confidence?: number;[m
+[32m+[m[32m  reasoning?: string;[m
+[32m+[m[32m  memory_id?: string;[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32minterface ValidateIdentityResponse {[m
+[32m+[m[32m  identity_maintained: boolean;[m
+[32m+[m[32m  violations?: Array<{[m
+[32m+[m[32m    type: string;[m
+[32m+[m[32m    text: string;[m
+[32m+[m[32m  }>;[m
+[32m+[m[32m  agent_name?: string;[m
+[32m+[m[32m  corrected_response?: string;[m
+ }[m
+ [m
+ interface RequestMetrics {[m
+[36m@@ -69,6 +192,36 @@[m [mconst CONFIG = {[m
+   enableHealthChecks: process.env.ENABLE_HEALTH_CHECKS !== "false", // Enabled by default[m
+ } as const;[m
+ [m
+[32m+[m[32m/**[m
+[32m+[m[32m * Agent Configuration - Customizable via environment variables[m
+[32m+[m[32m *[m
+[32m+[m[32m * Users can set:[m
+[32m+[m[32m * - RECALLBRICKS_AGENT_ID: Unique identifier for this agent instance[m
+[32m+[m[32m * - RECALLBRICKS_AGENT_NAME: Display name (optional)[m
+[32m+[m[32m * - RECALLBRICKS_USER_ID: User identifier[m
+[32m+[m[32m *[m
+[32m+[m[32m * Example in claude_desktop_config.json:[m
+[32m+[m[32m * {[m
+[32m+[m[32m *   "mcpServers": {[m
+[32m+[m[32m *     "recallbricks": {[m
+[32m+[m[32m *       "command": "node",[m
+[32m+[m[32m *       "args": ["build/index.js"],[m
+[32m+[m[32m *       "env": {[m
+[32m+[m[32m *         "RECALLBRICKS_API_KEY": "rbk_...",[m
+[32m+[m[32m *         "RECALLBRICKS_AGENT_ID": "tyler_personal_assistant",[m
+[32m+[m[32m *         "RECALLBRICKS_AGENT_NAME": "Nova",[m
+[32m+[m[32m *         "RECALLBRICKS_USER_ID": "tyler"[m
+[32m+[m[32m *       }[m
+[32m+[m[32m *     }[m
+[32m+[m[32m *   }[m
+[32m+[m[32m * }[m
+[32m+[m[32m */[m
+[32m+[m[32mconst AGENT_CONFIG = {[m
+[32m+[m[32m  agentId: process.env.RECALLBRICKS_AGENT_ID || `claude_desktop_${process.env.USER || process.env.USERNAME || 'user'}`,[m
+[32m+[m[32m  displayName: process.env.RECALLBRICKS_AGENT_NAME,[m
+[32m+[m[32m  userId: process.env.RECALLBRICKS_USER_ID || 'default',[m
+[32m+[m[32m} as const;[m
+[32m+[m
+ // ============================================================================[m
+ // CUSTOM ERROR CLASS[m
+ // ============================================================================[m
+[36m@@ -610,6 +763,288 @@[m [masync function queryMemoriesAPI(query: string, limit: number): Promise<QueryMemo[m
+   });[m
+ }[m
+ [m
+[32m+[m[32masync function predictMemoriesAPI([m
+[32m+[m[32m  currentContext?: string,[m
+[32m+[m[32m  recentMemories?: string[],[m
+[32m+[m[32m  limit?: number[m
+[32m+[m[32m): Promise<PredictMemoriesResponse> {[m
+[32m+[m[32m  return circuitBreaker.execute(async () => {[m
+[32m+[m[32m    const url = new URL(`${CONFIG.apiUrl}/api/v1/memories/predict`);[m
+[32m+[m
+[32m+[m[32m    if (currentContext) {[m
+[32m+[m[32m      url.searchParams.append('current_context', currentContext);[m
+[32m+[m[32m    }[m
+[32m+[m[32m    if (recentMemories && recentMemories.length > 0) {[m
+[32m+[m[32m      url.searchParams.append('recent_memories', JSON.stringify(recentMemories));[m
+[32m+[m[32m    }[m
+[32m+[m[32m    if (limit) {[m
+[32m+[m[32m      url.searchParams.append('limit', String(limit));[m
+[32m+[m[32m    }[m
+[32m+[m
+[32m+[m[32m    const response = await fetchWithRetry(url.toString(), {[m
+[32m+[m[32m      method: 'GET',[m
+[32m+[m[32m      headers: {[m
+[32m+[m[32m        'x-api-key': CONFIG.apiKey,[m
+[32m+[m[32m      },[m
+[32m+[m[32m    });[m
+[32m+[m
+[32m+[m[32m    if (!response.ok) {[m
+[32m+[m[32m      const errorData = await response.json().catch(() => ({}));[m
+[32m+[m[32m      throw new APIError([m
+[32m+[m[32m        errorData.message || `Failed to predict memories: ${response.statusText}`,[m
+[32m+[m[32m        response.status,[m
+[32m+[m[32m        url.toString()[m
+[32m+[m[32m      );[m
+[32m+[m[32m    }[m
+[32m+[m
+[32m+[m[32m    return await response.json();[m
+[32m+[m[32m  });[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32masync function suggestMemoriesAPI([m
+[32m+[m[32m  context: string,[m
+[32m+[m[32m  limit?: number,[m
+[32m+[m[32m  includeReasoning?: boolean,[m
+[32m+[m[32m  minConfidence?: number[m
+[32m+[m[32m): Promise<SuggestMemoriesResponse> {[m
+[32m+[m[32m  const validatedContext = validateQuery(context);[m
+[32m+[m[32m  const validatedLimit = validateLimit(limit);[m
+[32m+[m
+[32m+[m[32m  return circuitBreaker.execute(async () => {[m
+[32m+[m[32m    const response = await fetchWithRetry(`${CONFIG.apiUrl}/api/v1/memories/suggest`, {[m
+[32m+[m[32m      method: 'POST',[m
+[32m+[m[32m      headers: {[m
+[32m+[m[32m        'x-api-key': CONFIG.apiKey,[m
+[32m+[m[32m        'Content-Type': 'application/json',[m
+[32m+[m[32m      },[m
+[32m+[m[32m      body: JSON.stringify({[m
+[32m+[m[32m        context: validatedContext,[m
+[32m+[m[32m        limit: validatedLimit,[m
+[32m+[m[32m        include_reasoning: includeReasoning ?? true,[m
+[32m+[m[32m        min_confidence: minConfidence ?? 0.6,[m
+[32m+[m[32m      }),[m
+[32m+[m[32m    });[m
+[32m+[m
+[32m+[m[32m    if (!response.ok) {[m
+[32m+[m[32m      const errorData = await response.json().catch(() => ({}));[m
+[32m+[m[32m      throw new APIError([m
+[32m+[m[32m        errorData.message || `Failed to get suggestions: ${response.statusText}`,[m
+[32m+[m[32m        response.status,[m
+[32m+[m[32m        `${CONFIG.apiUrl}/api/v1/memories/suggest`[m
+[32m+[m[32m      );[m
+[32m+[m[32m    }[m
+[32m+[m
+[32m+[m[32m    return await response.json();[m
+[32m+[m[32m  });[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32masync function getLearningMetricsAPI(days?: number): Promise<LearningMetricsResponse> {[m
+[32m+[m[32m  return circuitBreaker.execute(async () => {[m
+[32m+[m[32m    const url = new URL(`${CONFIG.apiUrl}/api/v1/learning/metrics`);[m
+[32m+[m
+[32m+[m[32m    if (days) {[m
+[32m+[m[32m      url.searchParams.append('days', String(days));[m
+[32m+[m[32m    }[m
+[32m+[m
+[32m+[m[32m    const response = await fetchWithRetry(url.toString(), {[m
+[32m+[m[32m      method: 'GET',[m
+[32m+[m[32m      headers: {[m
+[32m+[m[32m        'x-api-key': CONFIG.apiKey,[m
+[32m+[m[32m      },[m
+[32m+[m[32m    });[m
+[32m+[m
+[32m+[m[32m    if (!response.ok) {[m
+[32m+[m[32m      const errorData = await response.json().catch(() => ({}));[m
+[32m+[m[32m      throw new APIError([m
+[32m+[m[32m        errorData.message || `Failed to get learning metrics: ${response.statusText}`,[m
+[32m+[m[32m        response.status,[m
+[32m+[m[32m        url.toString()[m
+[32m+[m[32m      );[m
+[32m+[m[32m    }[m
+[32m+[m
+[32m+[m[32m    return await response.json();[m
+[32m+[m[32m  });[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32masync function getPatternsAPI(days?: number): Promise<PatternsResponse> {[m
+[32m+[m[32m  return circuitBreaker.execute(async () => {[m
+[32m+[m[32m    const url = new URL(`${CONFIG.apiUrl}/api/v1/memories/meta/patterns`);[m
+[32m+[m
+[32m+[m[32m    if (days) {[m
+[32m+[m[32m      url.searchParams.append('days', String(days));[m
+[32m+[m[32m    }[m
+[32m+[m
+[32m+[m[32m    const response = await fetchWithRetry(url.toString(), {[m
+[32m+[m[32m      method: 'GET',[m
+[32m+[m[32m      headers: {[m
+[32m+[m[32m        'x-api-key': CONFIG.apiKey,[m
+[32m+[m[32m      },[m
+[32m+[m[32m    });[m
+[32m+[m
+[32m+[m[32m    if (!response.ok) {[m
+[32m+[m[32m      const errorData = await response.json().catch(() => ({}));[m
+[32m+[m[32m      throw new APIError([m
+[32m+[m[32m        errorData.message || `Failed to get patterns: ${response.statusText}`,[m
+[32m+[m[32m        response.status,[m
+[32m+[m[32m        url.toString()[m
+[32m+[m[32m      );[m
+[32m+[m[32m    }[m
+[32m+[m
+[32m+[m[32m    return await response.json();[m
+[32m+[m[32m  });[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32masync function searchMemoriesWeightedAPI([m
+[32m+[m[32m  query: string,[m
+[32m+[m[32m  limit?: number,[m
+[32m+[m[32m  weightByUsage?: boolean,[m
+[32m+[m[32m  decayOldMemories?: boolean,[m
+[32m+[m[32m  learningMode?: boolean,[m
+[32m+[m[32m  minHelpfulnessScore?: number,[m
+[32m+[m[32m  adaptiveWeights?: boolean[m
+[32m+[m[32m): Promise<QueryMemoriesResponse> {[m
+[32m+[m[32m  const validatedQuery = validateQuery(query);[m
+[32m+[m[32m  const validatedLimit = validateLimit(limit);[m
+[32m+[m
+[32m+[m[32m  return circuitBreaker.execute(async () => {[m
+[32m+[m[32m    const response = await fetchWithRetry(`${CONFIG.apiUrl}/api/v1/memories/search`, {[m
+[32m+[m[32m      method: 'POST',[m
+[32m+[m[32m      headers: {[m
+[32m+[m[32m        'x-api-key': CONFIG.apiKey,[m
+[32m+[m[32m        'Content-Type': 'application/json',[m
+[32m+[m[32m      },[m
+[32m+[m[32m      body: JSON.stringify({[m
+[32m+[m[32m        query: validatedQuery,[m
+[32m+[m[32m        limit: validatedLimit,[m
+[32m+[m[32m        weight_by_usage: weightByUsage ?? false,[m
+[32m+[m[32m        decay_old_memories: decayOldMemories ?? false,[m
+[32m+[m[32m        learning_mode: learningMode ?? false,[m
+[32m+[m[32m        min_helpfulness_score: minHelpfulnessScore,[m
+[32m+[m[32m        adaptive_weights: adaptiveWeights ?? true,[m
+[32m+[m[32m      }),[m
+[32m+[m[32m    });[m
+[32m+[m
+[32m+[m[32m    if (!response.ok) {[m
+[32m+[m[32m      const errorData = await response.json().catch(() => ({}));[m
+[32m+[m[32m      throw new APIError([m
+[32m+[m[32m        errorData.message || `Failed to search memories: ${response.statusText}`,[m
+[32m+[m[32m        response.status,[m
+[32m+[m[32m        `${CONFIG.apiUrl}/api/v1/memories/search`[m
+[32m+[m[32m      );[m
+[32m+[m[32m    }[m
+[32m+[m
+[32m+[m[32m    return await response.json();[m
+[32m+[m[32m  });[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32masync function getAgentContextAPI([m
+[32m+[m[32m  agentId: string = 'nova',[m
+[32m+[m[32m  userId: string = 'default',[m
+[32m+[m[32m  depth: string = 'standard'[m
+[32m+[m[32m): Promise<AgentContextResponse> {[m
+[32m+[m[32m  return circuitBreaker.execute(async () => {[m
+[32m+[m[32m    const response = await fetchWithRetry([m
+[32m+[m[32m      `${CONFIG.apiUrl}/api/v1/agents/${agentId}/context`,[m
+[32m+[m[32m      {[m
+[32m+[m[32m        method: 'POST',[m
+[32m+[m[32m        headers: {[m
+[32m+[m[32m          'x-api-key': CONFIG.apiKey,[m
+[32m+[m[32m          'Content-Type': 'application/json',[m
+[32m+[m[32m        },[m
+[32m+[m[32m        body: JSON.stringify({[m
+[32m+[m[32m          user_id: userId,[m
+[32m+[m[32m          depth: depth,[m
+[32m+[m[32m        }),[m
+[32m+[m[32m      }[m
+[32m+[m[32m    );[m
+[32m+[m
+[32m+[m[32m    if (!response.ok) {[m
+[32m+[m[32m      const errorData = await response.json().catch(() => ({}));[m
+[32m+[m[32m      throw new APIError([m
+[32m+[m[32m        errorData.message || `Failed to get agent context: ${response.statusText}`,[m
+[32m+[m[32m        response.status,[m
+[32m+[m[32m        `${CONFIG.apiUrl}/api/v1/agents/${agentId}/context`[m
+[32m+[m[32m      );[m
+[32m+[m[32m    }[m
+[32m+[m
+[32m+[m[32m    return await response.json();[m
+[32m+[m[32m  });[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32masync function autoSaveMemoryAPI([m
+[32m+[m[32m  text: string,[m
+[32m+[m[32m  userId: string = 'default',[m
+[32m+[m[32m  context?: string,[m
+[32m+[m[32m  forceSave: boolean = false[m
+[32m+[m[32m): Promise<AutoSaveMemoryResponse> {[m
+[32m+[m[32m  const validatedText = validateMemoryText(text);[m
+[32m+[m
+[32m+[m[32m  return circuitBreaker.execute(async () => {[m
+[32m+[m[32m    const response = await fetchWithRetry(`${CONFIG.apiUrl}/api/v1/memories/auto-save`, {[m
+[32m+[m[32m      method: 'POST',[m
+[32m+[m[32m      headers: {[m
+[32m+[m[32m        'x-api-key': CONFIG.apiKey,[m
+[32m+[m[32m        'Content-Type': 'application/json',[m
+[32m+[m[32m      },[m
+[32m+[m[32m      body: JSON.stringify({[m
+[32m+[m[32m        text: validatedText,[m
+[32m+[m[32m        user_id: userId,[m
+[32m+[m[32m        context: context,[m
+[32m+[m[32m        force_save: forceSave,[m
+[32m+[m[32m      }),[m
+[32m+[m[32m    });[m
+[32m+[m
+[32m+[m[32m    if (!response.ok) {[m
+[32m+[m[32m      const errorData = await response.json().catch(() => ({}));[m
+[32m+[m[32m      throw new APIError([m
+[32m+[m[32m        errorData.message || `Failed to auto-save memory: ${response.statusText}`,[m
+[32m+[m[32m        response.status,[m
+[32m+[m[32m        `${CONFIG.apiUrl}/api/v1/memories/auto-save`[m
+[32m+[m[32m      );[m
+[32m+[m[32m    }[m
+[32m+[m
+[32m+[m[32m    return await response.json();[m
+[32m+[m[32m  });[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32masync function validateAgentIdentityAPI([m
+[32m+[m[32m  agentId: string,[m
+[32m+[m[32m  responseText: string,[m
+[32m+[m[32m  autoCorrect: boolean = false[m
+[32m+[m[32m): Promise<ValidateIdentityResponse> {[m
+[32m+[m[32m  if (typeof agentId !== 'string' || agentId.trim().length === 0) {[m
+[32m+[m[32m    throw new APIError('Agent ID must be a non-empty string', 400);[m
+[32m+[m[32m  }[m
+[32m+[m
+[32m+[m[32m  const validatedText = validateMemoryText(responseText);[m
+[32m+[m
+[32m+[m[32m  return circuitBreaker.execute(async () => {[m
+[32m+[m[32m    const response = await fetchWithRetry(`${CONFIG.apiUrl}/api/v1/agents/validate-identity`, {[m
+[32m+[m[32m      method: 'POST',[m
+[32m+[m[32m      headers: {[m
+[32m+[m[32m        'x-api-key': CONFIG.apiKey,[m
+[32m+[m[32m        'Content-Type': 'application/json',[m
+[32m+[m[32m      },[m
+[32m+[m[32m      body: JSON.stringify({[m
+[32m+[m[32m        agent_id: agentId,[m
+[32m+[m[32m        response_text: validatedText,[m
+[32m+[m[32m        auto_correct: autoCorrect,[m
+[32m+[m[32m      }),[m
+[32m+[m[32m    });[m
+[32m+[m
+[32m+[m[32m    if (!response.ok) {[m
+[32m+[m[32m      const errorData = await response.json().catch(() => ({}));[m
+[32m+[m[32m      throw new APIError([m
+[32m+[m[32m        errorData.message || `Failed to validate agent identity: ${response.statusText}`,[m
+[32m+[m[32m        response.status,[m
+[32m+[m[32m        `${CONFIG.apiUrl}/api/v1/agents/validate-identity`[m
+[32m+[m[32m      );[m
+[32m+[m[32m    }[m
+[32m+[m
+[32m+[m[32m    return await response.json();[m
+[32m+[m[32m  });[m
+[32m+[m[32m}[m
+[32m+[m
+ // ============================================================================[m
+ // MCP SERVER SETUP[m
+ // ============================================================================[m
+[36m@@ -617,7 +1052,7 @@[m [masync function queryMemoriesAPI(query: string, limit: number): Promise<QueryMemo[m
+ const server = new Server([m
+   {[m
+     name: 'recallbricks-memory',[m
+[31m-    version: '2.0.0',[m
+[32m+[m[32m    version: '3.0.0',[m
+   },[m
+   {[m
+     capabilities: {[m
+[36m@@ -662,6 +1097,191 @@[m [mserver.setRequestHandler(ListToolsRequestSchema, async () => {[m
+           required: ['query'],[m
+         },[m
+       },[m
+[32m+[m[32m      {[m
+[32m+[m[32m        name: 'search_memories_weighted',[m
+[32m+[m[32m        description: 'Advanced semantic search with usage-based weighting, recency decay, and adaptive learning',[m
+[32m+[m[32m        inputSchema: {[m
+[32m+[m[32m          type: 'object',[m
+[32m+[m[32m          properties: {[m
+[32m+[m[32m            query: {[m
+[32m+[m[32m              type: 'string',[m
+[32m+[m[32m              description: 'Search query to find relevant memories',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            limit: {[m
+[32m+[m[32m              type: 'number',[m
+[32m+[m[32m              description: 'Maximum number of memories to return (1-100, default: 10)',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            weight_by_usage: {[m
+[32m+[m[32m              type: 'boolean',[m
+[32m+[m[32m              description: 'Boost frequently-used memories in results (default: false)',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            decay_old_memories: {[m
+[32m+[m[32m              type: 'boolean',[m
+[32m+[m[32m              description: 'Penalize stale memories not accessed in 90+ days (default: false)',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            learning_mode: {[m
+[32m+[m[32m              type: 'boolean',[m
+[32m+[m[32m              description: 'Track which results are used to improve future searches (default: false)',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            min_helpfulness_score: {[m
+[32m+[m[32m              type: 'number',[m
+[32m+[m[32m              description: 'Filter results below this helpfulness threshold (0.0-1.0)',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            adaptive_weights: {[m
+[32m+[m[32m              type: 'boolean',[m
+[32m+[m[32m              description: 'Use per-user learned weights for personalization (default: true)',[m
+[32m+[m[32m            },[m
+[32m+[m[32m          },[m
+[32m+[m[32m          required: ['query'],[m
+[32m+[m[32m        },[m
+[32m+[m[32m      },[m
+[32m+[m[32m      {[m
+[32m+[m[32m        name: 'predict_memories',[m
+[32m+[m[32m        description: 'Predict which memories will likely be needed next based on context and usage patterns',[m
+[32m+[m[32m        inputSchema: {[m
+[32m+[m[32m          type: 'object',[m
+[32m+[m[32m          properties: {[m
+[32m+[m[32m            current_context: {[m
+[32m+[m[32m              type: 'string',[m
+[32m+[m[32m              description: 'What you are currently working on or thinking about',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            recent_memories: {[m
+[32m+[m[32m              type: 'array',[m
+[32m+[m[32m              items: { type: 'string' },[m
+[32m+[m[32m              description: 'Array of recently accessed memory IDs',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            limit: {[m
+[32m+[m[32m              type: 'number',[m
+[32m+[m[32m              description: 'Number of predictions to return (default: 10)',[m
+[32m+[m[32m            },[m
+[32m+[m[32m          },[m
+[32m+[m[32m          required: [],[m
+[32m+[m[32m        },[m
+[32m+[m[32m      },[m
+[32m+[m[32m      {[m
+[32m+[m[32m        name: 'suggest_memories',[m
+[32m+[m[32m        description: 'Proactively suggest relevant memories before you ask for them, based on current context',[m
+[32m+[m[32m        inputSchema: {[m
+[32m+[m[32m          type: 'object',[m
+[32m+[m[32m          properties: {[m
+[32m+[m[32m            context: {[m
+[32m+[m[32m              type: 'string',[m
+[32m+[m[32m              description: 'Current work context or what you are planning to do',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            limit: {[m
+[32m+[m[32m              type: 'number',[m
+[32m+[m[32m              description: 'Maximum number of suggestions to return (default: 5)',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            include_reasoning: {[m
+[32m+[m[32m              type: 'boolean',[m
+[32m+[m[32m              description: 'Include explanation for why each memory was suggested (default: true)',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            min_confidence: {[m
+[32m+[m[32m              type: 'number',[m
+[32m+[m[32m              description: 'Minimum confidence threshold for suggestions (0.0-1.0, default: 0.6)',[m
+[32m+[m[32m            },[m
+[32m+[m[32m          },[m
+[32m+[m[32m          required: ['context'],[m
+[32m+[m[32m        },[m
+[32m+[m[32m      },[m
+[32m+[m[32m      {[m
+[32m+[m[32m        name: 'get_learning_metrics',[m
+[32m+[m[32m        description: 'Get system learning metrics and improvement velocity over time',[m
+[32m+[m[32m        inputSchema: {[m
+[32m+[m[32m          type: 'object',[m
+[32m+[m[32m          properties: {[m
+[32m+[m[32m            days: {[m
+[32m+[m[32m              type: 'number',[m
+[32m+[m[32m              description: 'Time range in days for metrics analysis (default: 30)',[m
+[32m+[m[32m            },[m
+[32m+[m[32m          },[m
+[32m+[m[32m          required: [],[m
+[32m+[m[32m        },[m
+[32m+[m[32m      },[m
+[32m+[m[32m      {[m
+[32m+[m[32m        name: 'get_patterns',[m
+[32m+[m[32m        description: 'Analyze usage patterns, identify underutilized memories, and discover access patterns',[m
+[32m+[m[32m        inputSchema: {[m
+[32m+[m[32m          type: 'object',[m
+[32m+[m[32m          properties: {[m
+[32m+[m[32m            days: {[m
+[32m+[m[32m              type: 'number',[m
+[32m+[m[32m              description: 'Time window for pattern analysis in days (default: 30)',[m
+[32m+[m[32m            },[m
+[32m+[m[32m          },[m
+[32m+[m[32m          required: [],[m
+[32m+[m[32m        },[m
+[32m+[m[32m      },[m
+[32m+[m[32m      {[m
+[32m+[m[32m        name: 'get_agent_context',[m
+[32m+[m[32m        description: `Load agent identity, recent memories, and behavioral context. Uses agent_id: ${AGENT_CONFIG.agentId}`,[m
+[32m+[m[32m        inputSchema: {[m
+[32m+[m[32m          type: 'object',[m
+[32m+[m[32m          properties: {[m
+[32m+[m[32m            agent_id: {[m
+[32m+[m[32m              type: 'string',[m
+[32m+[m[32m              description: `Agent identifier (default: ${AGENT_CONFIG.agentId})`,[m
+[32m+[m[32m            },[m
+[32m+[m[32m            user_id: {[m
+[32m+[m[32m              type: 'string',[m
+[32m+[m[32m              description: `User identifier (default: ${AGENT_CONFIG.userId})`,[m
+[32m+[m[32m            },[m
+[32m+[m[32m            depth: {[m
+[32m+[m[32m              type: 'string',[m
+[32m+[m[32m              description: 'Context depth: quick, standard, or comprehensive (default: standard)',[m
+[32m+[m[32m              enum: ['quick', 'standard', 'comprehensive'],[m
+[32m+[m[32m            },[m
+[32m+[m[32m          },[m
+[32m+[m[32m        },[m
+[32m+[m[32m      },[m
+[32m+[m[32m      {[m
+[32m+[m[32m        name: 'auto_save_memory',[m
+[32m+[m[32m        description: 'Automatically classify and save important conversation turns (decisions, facts, preferences, outcomes)',[m
+[32m+[m[32m        inputSchema: {[m
+[32m+[m[32m          type: 'object',[m
+[32m+[m[32m          properties: {[m
+[32m+[m[32m            text: {[m
+[32m+[m[32m              type: 'string',[m
+[32m+[m[32m              description: 'The conversation text to analyze and potentially save',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            user_id: {[m
+[32m+[m[32m              type: 'string',[m
+[32m+[m[32m              description: 'The user identifier (default: default)',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            context: {[m
+[32m+[m[32m              type: 'string',[m
+[32m+[m[32m              description: 'Additional context about the conversation (optional)',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            force_save: {[m
+[32m+[m[32m              type: 'boolean',[m
+[32m+[m[32m              description: 'Force save regardless of classification (default: false)',[m
+[32m+[m[32m            },[m
+[32m+[m[32m          },[m
+[32m+[m[32m          required: ['text'],[m
+[32m+[m[32m        },[m
+[32m+[m[32m      },[m
+[32m+[m[32m      {[m
+[32m+[m[32m        name: 'validate_agent_identity',[m
+[32m+[m[32m        description: 'Check agent responses for identity leakage (references to base models like Claude, ChatGPT)',[m
+[32m+[m[32m        inputSchema: {[m
+[32m+[m[32m          type: 'object',[m
+[32m+[m[32m          properties: {[m
+[32m+[m[32m            agent_id: {[m
+[32m+[m[32m              type: 'string',[m
+[32m+[m[32m              description: 'The agent identifier to validate against',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            response_text: {[m
+[32m+[m[32m              type: 'string',[m
+[32m+[m[32m              description: 'The agent response text to validate',[m
+[32m+[m[32m            },[m
+[32m+[m[32m            auto_correct: {[m
+[32m+[m[32m              type: 'boolean',[m
+[32m+[m[32m              description: 'Automatically generate corrected response (default: false)',[m
+[32m+[m[32m            },[m
+[32m+[m[32m          },[m
+[32m+[m[32m          required: ['agent_id', 'response_text'],[m
+[32m+[m[32m        },[m
+[32m+[m[32m      },[m
+       {[m
+         name: 'get_health',[m
+         description: 'Get the current health status and metrics of the RecallBricks MCP server',[m
+[36m@@ -724,6 +1344,297 @@[m [mserver.setRequestHandler(CallToolRequestSchema, async (request) => {[m
+       };[m
+     }[m
+ [m
+[32m+[m[32m    if (name === 'search_memories_weighted') {[m
+[32m+[m[32m      const result = await searchMemoriesWeightedAPI([m
+[32m+[m[32m        args.query as string,[m
+[32m+[m[32m        args.limit as number,[m
+[32m+[m[32m        args.weight_by_usage as boolean,[m
+[32m+[m[32m        args.decay_old_memories as boolean,[m
+[32m+[m[32m        args.learning_mode as boolean,[m
+[32m+[m[32m        args.min_helpfulness_score as number,[m
+[32m+[m[32m        args.adaptive_weights as boolean[m
+[32m+[m[32m      );[m
+[32m+[m[32m      const memories = result.memories || [];[m
+[32m+[m
+[32m+[m[32m      if (memories.length === 0) {[m
+[32m+[m[32m        return {[m
+[32m+[m[32m          content: [[m
+[32m+[m[32m            {[m
+[32m+[m[32m              type: 'text',[m
+[32m+[m[32m              text: '📭 No memories found matching your query.',[m
+[32m+[m[32m            },[m
+[32m+[m[32m          ],[m
+[32m+[m[32m        };[m
+[32m+[m[32m      }[m
+[32m+[m
+[32m+[m[32m      const memoryText = memories[m
+[32m+[m[32m        .map((m: any, idx: number) => {[m
+[32m+[m[32m          const boost = m.boosted_by_usage ? ' [BOOSTED BY USAGE]' : '';[m
+[32m+[m[32m          const recency = m.boosted_by_recency ? ' [RECENT]' : '';[m
+[32m+[m[32m          const penalized = m.penalized_by_age ? ' [STALE]' : '';[m
+[32m+[m[32m          const score = m.weighted_score ? ` (score: ${m.weighted_score.toFixed(2)})` : '';[m
+[32m+[m[32m          return `${idx + 1}. [${m.id}]${boost}${recency}${penalized}${score}\n   ${m.text.substring(0, 200)}${m.text.length > 200 ? '...' : ''}\n   Helpfulness: ${m.helpfulness_score?.toFixed(2) || 'N/A'} | Usage: ${m.usage_count || 0}`;[m
+[32m+[m[32m        })[m
+[32m+[m[32m        .join('\n\n');[m
+[32m+[m
+[32m+[m[32m      return {[m
+[32m+[m[32m        content: [[m
+[32m+[m[32m          {[m
+[32m+[m[32m            type: 'text',[m
+[32m+[m[32m            text: `🔍 Found ${memories.length} ${memories.length === 1 ? 'memory' : 'memories'}${result.total ? ` (total: ${result.total})` : ''}:\n${result.weighted ? '\n[Using weighted search with adaptive learning]' : ''}\n\n${memoryText}`,[m
+[32m+[m[32m          },[m
+[32m+[m[32m        ],[m
+[32m+[m[32m      };[m
+[32m+[m[32m    }[m
+[32m+[m
+[32m+[m[32m    if (name === 'predict_memories') {[m
+[32m+[m[32m      const result = await predictMemoriesAPI([m
+[32m+[m[32m        args.current_context as string,[m
+[32m+[m[32m        args.recent_memories as string[],[m
+[32m+[m[32m        args.limit as number[m
+[32m+[m[32m      );[m
+[32m+[m[32m      const predictions = result.predictions || [];[m
+[32m+[m
+[32m+[m[32m      if (predictions.length === 0) {[m
+[32m+[m[32m        return {[m
+[32m+[m[32m          content: [[m
+[32m+[m[32m            {[m
+[32m+[m[32m              type: 'text',[m
+[32m+[m[32m              text: '🔮 No memory predictions available. Try providing more context or recent memory IDs.',[m
+[32m+[m[32m            },[m
+[32m+[m[32m          ],[m
+[32m+[m[32m        };[m
+[32m+[m[32m      }[m
+[32m+[m
+[32m+[m[32m      const predictionText = predictions[m
+[32m+[m[32m        .map((p, idx) => {[m
+[32m+[m[32m          const reasons = p.reasons.join(', ');[m
+[32m+[m[32m          return `${idx + 1}. [${p.memory_id}] Confidence: ${(p.confidence * 100).toFixed(0)}%\n   ${p.text.substring(0, 150)}${p.text.length > 150 ? '...' : ''}\n   Reasons: ${reasons}\n   Helpfulness: ${p.helpfulness_score?.toFixed(2) || 'N/A'} | Usage: ${p.usage_count || 0}`;[m
+[32m+[m[32m        })[m
+[32m+[m[32m        .join('\n\n');[m
+[32m+[m
+[32m+[m[32m      return {[m
+[32m+[m[32m        content: [[m
+[32m+[m[32m          {[m
+[32m+[m[32m            type: 'text',[m
+[32m+[m[32m            text: `🔮 Predicted ${predictions.length} ${predictions.length === 1 ? 'memory' : 'memories'} you might need:\n${result.context ? `Context: ${result.context}\n` : ''}\n${predictionText}`,[m
+[32m+[m[32m          },[m
+[32m+[m[32m        ],[m
+[32m+[m[32m      };[m
+[32m+[m[32m    }[m
+[32m+[m
+[32m+[m[32m    if (name === 'suggest_memories') {[m
+[32m+[m[32m      const result = await suggestMemoriesAPI([m
+[32m+[m[32m        args.context as string,[m
+[32m+[m[32m        args.limit as number,[m
+[32m+[m[32m        args.include_reasoning as boolean,[m
+[32m+[m[32m        args.min_confidence as number[m
+[32m+[m[32m      );[m
+[32m+[m[32m      const suggestions = result.suggestions || [];[m
+[32m+[m
+[32m+[m[32m      if (suggestions.length === 0) {[m
+[32m+[m[32m        return {[m
+[32m+[m[32m          content: [[m
+[32m+[m[32m            {[m
+[32m+[m[32m              type: 'text',[m
+[32m+[m[32m              text: '💡 No memory suggestions available for this context.',[m
+[32m+[m[32m            },[m
+[32m+[m[32m          ],[m
+[32m+[m[32m        };[m
+[32m+[m[32m      }[m
+[32m+[m
+[32m+[m[32m      const suggestionText = suggestions[m
+[32m+[m[32m        .map((s, idx) => {[m
+[32m+[m[32m          const analytics = s.analytics[m
+[32m+[m[32m            ? `\n   Analytics: ${s.analytics.access_frequency} frequency | ${s.analytics.days_since_access} days since access`[m
+[32m+[m[32m            : '';[m
+[32m+[m[32m          const reasoning = s.reasoning && args.include_reasoning[m
+[32m+[m[32m            ? `\n   Why: ${s.reasoning.semantic_match || 'Semantically matched'}, helpful=${s.reasoning.high_helpfulness}`[m
+[32m+[m[32m            : '';[m
+[32m+[m[32m          return `${idx + 1}. [${s.memory_id}] Score: ${s.suggestion_score.toFixed(2)}\n   ${s.text.substring(0, 150)}${s.text.length > 150 ? '...' : ''}${analytics}${reasoning}`;[m
+[32m+[m[32m        })[m
+[32m+[m[32m        .join('\n\n');[m
+[32m+[m
+[32m+[m[32m      return {[m
+[32m+[m[32m        content: [[m
+[32m+[m[32m          {[m
+[32m+[m[32m            type: 'text',[m
+[32m+[m[32m            text: `💡 Suggested ${suggestions.length} relevant ${suggestions.length === 1 ? 'memory' : 'memories'}:\nContext: ${result.context}\n\n${suggestionText}`,[m
+[32m+[m[32m          },[m
+[32m+[m[32m        ],[m
+[32m+[m[32m      };[m
+[32m+[m[32m    }[m
+[32m+[m
+[32m+[m[32m    if (name === 'get_learning_metrics') {[m
+[32m+[m[32m      const result = await getLearningMetricsAPI(args.days as number);[m
+[32m+[m
+[32m+[m[32m      const metricsText = Object.entries(result.trends || {})[m
+[32m+[m[32m        .map(([metric, data]: [string, any]) => {[m
+[32m+[m[32m          const trend = data.trend || 'stable';[m
+[32m+[m[32m          const change = data.percent_change ? `${data.percent_change > 0 ? '+' : ''}${data.percent_change.toFixed(1)}%` : 'N/A';[m
+[32m+[m[32m          return `${metric}: ${trend} (${change})`;[m
+[32m+[m[32m        })[m
+[32m+[m[32m        .join('\n');[m
+[32m+[m
+[32m+[m[32m      const currentStats = Object.entries(result.current_stats || {})[m
+[32m+[m[32m        .map(([key, value]) => `${key}: ${typeof value === 'number' ? value.toFixed(2) : value}`)[m
+[32m+[m[32m        .join('\n');[m
+[32m+[m
+[32m+[m[32m      const learningParams = result.learning_params[m
+[32m+[m[32m        ? `\n\nLearning Parameters:\n${Object.entries(result.learning_params).map(([k, v]) => `${k}: ${typeof v === 'number' ? (v as number).toFixed(2) : v}`).join('\n')}`[m
+[32m+[m[32m        : '';[m
+[32m+[m
+[32m+[m[32m      return {[m
+[32m+[m[32m        content: [[m
+[32m+[m[32m          {[m
+[32m+[m[32m            type: 'text',[m
+[32m+[m[32m            text: `📊 Learning Metrics (${result.time_range.days} days)\n\nTrends:\n${metricsText}\n\nCurrent Stats:\n${currentStats}${learningParams}\n\nActive Patterns: ${result.active_patterns || 0}`,[m
+[32m+[m[32m          },[m
+[32m+[m[32m        ],[m
+[32m+[m[32m      };[m
+[32m+[m[32m    }[m
+[32m+[m
+[32m+[m[32m    if (name === 'get_patterns') {[m
+[32m+[m[32m      const result = await getPatternsAPI(args.days as number);[m
+[32m+[m
+[32m+[m[32m      const topTags = result.most_useful_tags[m
+[32m+[m[32m        ?.slice(0, 5)[m
+[32m+[m[32m        .map((t, i) => `${i + 1}. ${t.tag}: ${(t.avg_helpfulness * 100).toFixed(0)}% helpful (${t.usage_count} uses)`)[m
+[32m+[m[32m        .join('\n') || 'No tag data';[m
+[32m+[m
+[32m+[m[32m      const coAccess = result.frequently_accessed_together[m
+[32m+[m[32m        ?.slice(0, 5)[m
+[32m+[m[32m        .map((p, i) => `${i + 1}. Memories accessed together ${p.co_access_count} times`)[m
+[32m+[m[32m        .join('\n') || 'No co-access patterns';[m
+[32m+[m
+[32m+[m[32m      const underutilized = result.underutilized_memories[m
+[32m+[m[32m        ?.slice(0, 5)[m
+[32m+[m[32m        .map((m, i) => `${i + 1}. [${m.id}] ${m.text.substring(0, 80)}...\n   Last accessed: ${m.days_since_access} days ago`)[m
+[32m+[m[32m        .join('\n\n') || 'All memories are being used';[m
+[32m+[m
+[32m+[m[32m      const summary = result.summary;[m
+[32m+[m
+[32m+[m[32m      return {[m
+[32m+[m[32m        content: [[m
+[32m+[m[32m          {[m
+[32m+[m[32m            type: 'text',[m
+[32m+[m[32m            text: `📈 Usage Patterns\n\nSummary:\n- Total: ${summary.total_memories} memories\n- Active: ${summary.active_memories}\n- Stale: ${summary.stale_memories}\n- Avg Helpfulness: ${(summary.avg_helpfulness * 100).toFixed(0)}%\n- Total Accesses: ${summary.total_accesses}\n\nMost Useful Tags:\n${topTags}\n\nFrequently Accessed Together:\n${coAccess}\n\nUnderutilized Memories:\n${underutilized}`,[m
+[32m+[m[32m          },[m
+[32m+[m[32m        ],[m
+[32m+[m[32m      };[m
+[32m+[m[32m    }[m
+[32m+[m
+[32m+[m[32m    if (name === 'get_agent_context') {[m
+[32m+[m[32m      const agentId = (args.agent_id as string) || AGENT_CONFIG.agentId;[m
+[32m+[m[32m      const userId = (args.user_id as string) || AGENT_CONFIG.userId;[m
+[32m+[m[32m      const depth = (args.depth as 'quick' | 'standard' | 'comprehensive') || 'standard';[m
+[32m+[m
+[32m+[m[32m      const result = await getAgentContextAPI(agentId, userId, depth);[m
+[32m+[m
+[32m+[m[32m      const identity = result.agent_identity;[m
+[32m+[m[32m      const memories = result.recent_memories || [];[m
+[32m+[m[32m      const patterns = result.key_patterns || [];[m
+[32m+[m
+[32m+[m[32m      const memoriesText = memories.length > 0[m
+[32m+[m[32m        ? memories[m
+[32m+[m[32m            .slice(0, 5)[m
+[32m+[m[32m            .map((m, idx) => `${idx + 1}. ${m.text.substring(0, 100)}${m.text.length > 100 ? '...' : ''}`)[m
+[32m+[m[32m            .join('\n')[m
+[32m+[m[32m        : 'No recent memories';[m
+[32m+[m
+[32m+[m[32m      const patternsText = patterns.length > 0[m
+[32m+[m[32m        ? patterns.slice(0, 5).join('\n- ')[m
+[32m+[m[32m        : 'No patterns identified yet';[m
+[32m+[m
+[32m+[m[32m      return {[m
+[32m+[m[32m        content: [[m
+[32m+[m[32m          {[m
+[32m+[m[32m            type: 'text',[m
+[32m+[m[32m            text: `🤖 Agent Context Loaded: ${identity.name}\n\n` +[m
+[32m+[m[32m                  `Purpose: ${identity.purpose}\n\n` +[m
+[32m+[m[32m                  `Traits: ${identity.traits.join(', ')}\n\n` +[m
+[32m+[m[32m                  `Behavioral Rules:\n- ${identity.behavioral_rules.join('\n- ')}\n\n` +[m
+[32m+[m[32m                  `Recent Memories (${memories.length}):\n${memoriesText}\n\n` +[m
+[32m+[m[32m                  `Key Patterns:\n- ${patternsText}\n\n` +[m
+[32m+[m[32m                  `⚠️ IMPORTANT: You are ${identity.name}, not a generic AI model.\n\n` +[m
+[32m+[m[32m                  `System Prompt:\n${result.system_prompt_injection}`,[m
+[32m+[m[32m          },[m
+[32m+[m[32m        ],[m
+[32m+[m[32m      };[m
+[32m+[m[32m    }[m
+[32m+[m
+[32m+[m[32m    if (name === 'auto_save_memory') {[m
+[32m+[m[32m      const text = args.text as string;[m
+[32m+[m[32m      const userId = (args.user_id as string) || AGENT_CONFIG.userId;[m
+[32m+[m[32m      const context = args.context as string | undefined;[m
+[32m+[m[32m      const forceSave = (args.force_save as boolean) || false;[m
+[32m+[m
+[32m+[m[32m      const result = await autoSaveMemoryAPI(text, userId, context, forceSave);[m
+[32m+[m
+[32m+[m[32m      if (result.saved) {[m
+[32m+[m[32m        return {[m
+[32m+[m[32m          content: [[m
+[32m+[m[32m            {[m
+[32m+[m[32m              type: 'text',[m
+[32m+[m[32m              text: `✅ Memory saved! Category: ${result.category} (Confidence: ${(result.confidence! * 100).toFixed(0)}%)\n\n` +[m
+[32m+[m[32m                    `Reasoning: ${result.reasoning}\n\n` +[m
+[32m+[m[32m                    `Memory ID: ${result.memory_id}`,[m
+[32m+[m[32m            },[m
+[32m+[m[32m          ],[m
+[32m+[m[32m        };[m
+[32m+[m[32m      } else {[m
+[32m+[m[32m        return {[m
+[32m+[m[32m          content: [[m
+[32m+[m[32m            {[m
+[32m+[m[32m              type: 'text',[m
+[32m+[m[32m              text: `📝 Not saved - classified as brainstorming/discussion only\n\n` +[m
+[32m+[m[32m                    `Reasoning: ${result.reasoning}`,[m
+[32m+[m[32m            },[m
+[32m+[m[32m          ],[m
+[32m+[m[32m        };[m
+[32m+[m[32m      }[m
+[32m+[m[32m    }[m
+[32m+[m
+[32m+[m[32m    if (name === 'validate_agent_identity') {[m
+[32m+[m[32m      const agentId = (args.agent_id as string) || AGENT_CONFIG.agentId;[m
+[32m+[m[32m      const responseText = args.response_text as string;[m
+[32m+[m[32m      const autoCorrect = (args.auto_correct as boolean) || false;[m
+[32m+[m
+[32m+[m[32m      const result = await validateAgentIdentityAPI(agentId, responseText, autoCorrect);[m
+[32m+[m
+[32m+[m[32m      if (result.identity_maintained) {[m
+[32m+[m[32m        return {[m
+[32m+[m[32m          content: [[m
+[32m+[m[32m            {[m
+[32m+[m[32m              type: 'text',[m
+[32m+[m[32m              text: `✅ Identity maintained - no leakage detected`,[m
+[32m+[m[32m            },[m
+[32m+[m[32m          ],[m
+[32m+[m[32m        };[m
+[32m+[m[32m      } else {[m
+[32m+[m[32m        const violations = result.violations || [];[m
+[32m+[m[32m        const violationsText = violations[m
+[32m+[m[32m          .map(v => `- ${v.type}: "${v.text}"`)[m
+[32m+[m[32m          .join('\n');[m
+[32m+[m
+[32m+[m[32m        let responseText = `⚠️ Identity leakage detected:\n${violationsText}\n\n` +[m
+[32m+[m[32m                          `Agent should be: ${result.agent_name}`;[m
+[32m+[m
+[32m+[m[32m        if (result.corrected_response) {[m
+[32m+[m[32m          responseText += `\n\nSuggested correction:\n${result.corrected_response}`;[m
+[32m+[m[32m        }[m
+[32m+[m
+[32m+[m[32m        return {[m
+[32m+[m[32m          content: [[m
+[32m+[m[32m            {[m
+[32m+[m[32m              type: 'text',[m
+[32m+[m[32m              text: responseText,[m
+[32m+[m[32m            },[m
+[32m+[m[32m          ],[m
+[32m+[m[32m        };[m
+[32m+[m[32m      }[m
+[32m+[m[32m    }[m
+[32m+[m
+     if (name === 'get_health') {[m
+       const cbStats = circuitBreaker.getStats();[m
+       const cacheSize = memoryCache.size();[m
+[36m@@ -788,7 +1699,11 @@[m [masync function main() {[m
+   const transport = new StdioServerTransport();[m
+   await server.connect(transport);[m
+ [m
+[31m-  console.error('✨ RecallBricks MCP Server v2.0.0 - Production Ready');[m
+[32m+[m[32m  console.error('✨ RecallBricks MCP Server v3.0.0 - With Metacognition & Predictive AI');[m
+[32m+[m[32m  console.error('🤖 Agent Configuration:');[m
+[32m+[m[32m  console.error(`   Agent ID: ${AGENT_CONFIG.agentId}`);[m
+[32m+[m[32m  console.error(`   Display Name: ${AGENT_CONFIG.displayName || 'Not specified'}`);[m
+[32m+[m[32m  console.error(`   User ID: ${AGENT_CONFIG.userId}`);[m
+   console.error(`🔗 Connected to: ${CONFIG.apiUrl}`);[m
+   console.error(`🔑 API Key: ${CONFIG.apiKey.substring(0, 10)}...`);[m
+   console.error(`🛡️  Circuit Breaker: ${circuitBreaker.getState()}`);[m
